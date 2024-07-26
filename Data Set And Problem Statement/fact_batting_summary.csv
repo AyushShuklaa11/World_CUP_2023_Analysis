@@ -1,0 +1,877 @@
+Match_No,Match_Between,Team_Innings,Batsman_Name,Batting_Position,Runs,Balls,Fours,Sixes,Strike_Rate,Out,Boundary_Runs,Match_ID
+1,England vs New Zealand,England,Jonny Bairstow,1,33,35,4,1,94.3,1,22,ODI # 4658
+1,England vs New Zealand,England,Dawid Malan,2,14,24,2,0,58.3,1,8,ODI # 4658
+1,England vs New Zealand,England,Joe Root,3,77,86,4,1,89.5,1,22,ODI # 4658
+1,England vs New Zealand,England,Harry Brook,4,25,16,4,1,156.3,1,22,ODI # 4658
+1,England vs New Zealand,England,Moeen Ali,5,11,17,1,0,64.7,1,4,ODI # 4658
+1,England vs New Zealand,England,Jos Buttler,6,43,42,2,2,102.4,1,20,ODI # 4658
+1,England vs New Zealand,England,Liam Livingstone,7,20,22,3,0,90.9,1,12,ODI # 4658
+1,England vs New Zealand,England,Sam Curran,8,14,19,0,0,73.7,1,0,ODI # 4658
+1,England vs New Zealand,England,Chris Woakes,9,11,12,1,0,91.7,1,4,ODI # 4658
+1,England vs New Zealand,England,Adil Rashid,10,15,13,0,1,115.4,0,6,ODI # 4658
+1,England vs New Zealand,England,Mark Wood,11,13,14,0,0,92.9,0,0,ODI # 4658
+1,England vs New Zealand,New Zealand,Devon Conway,1,152,121,19,3,125.6,0,94,ODI # 4658
+1,England vs New Zealand,New Zealand,Will Young,2,0,1,0,0,0,1,0,ODI # 4658
+1,England vs New Zealand,New Zealand,Rachin Ravindra,3,123,96,11,5,128.1,0,74,ODI # 4658
+2,Pakistan vs Netherlands,Pakistan,Fakhar Zaman,1,12,15,3,0,80,1,12,ODI # 4659
+2,Pakistan vs Netherlands,Pakistan,Imam-ul-Haq,2,15,19,2,0,78.9,1,8,ODI # 4659
+2,Pakistan vs Netherlands,Pakistan,Babar Azam,3,5,18,0,0,27.8,1,0,ODI # 4659
+2,Pakistan vs Netherlands,Pakistan,Mohammad Rizwan,4,68,75,8,0,90.7,1,32,ODI # 4659
+2,Pakistan vs Netherlands,Pakistan,Saud Shakeel,5,68,52,9,1,130.8,1,42,ODI # 4659
+2,Pakistan vs Netherlands,Pakistan,Iftikhar Ahmed,6,9,11,1,0,81.8,1,4,ODI # 4659
+2,Pakistan vs Netherlands,Pakistan,Mohammad Nawaz,7,39,43,4,0,90.7,1,16,ODI # 4659
+2,Pakistan vs Netherlands,Pakistan,Shadab Khan,8,32,34,2,1,94.1,1,14,ODI # 4659
+2,Pakistan vs Netherlands,Pakistan,Hasan Ali,9,0,1,0,0,0,1,0,ODI # 4659
+2,Pakistan vs Netherlands,Pakistan,Shaheen Afridi,10,13,12,2,0,108.3,0,8,ODI # 4659
+2,Pakistan vs Netherlands,Pakistan,Haris Rauf,11,16,14,2,1,114.3,1,14,ODI # 4659
+2,Pakistan vs Netherlands,Netherlands,Vikramjit Singh,1,52,67,4,1,77.6,1,22,ODI # 4659
+2,Pakistan vs Netherlands,Netherlands,Max O'Dowd,2,5,12,1,0,41.7,1,4,ODI # 4659
+2,Pakistan vs Netherlands,Netherlands,Colin Ackermann,3,17,21,3,0,81,1,12,ODI # 4659
+2,Pakistan vs Netherlands,Netherlands,Bas de Leede,4,67,68,6,2,98.5,1,36,ODI # 4659
+2,Pakistan vs Netherlands,Netherlands,Teja Nidamanuru,5,5,9,1,0,55.6,1,4,ODI # 4659
+2,Pakistan vs Netherlands,Netherlands,Scott Edwards,6,0,2,0,0,0,1,0,ODI # 4659
+2,Pakistan vs Netherlands,Netherlands,Saqib Zulfiqar,7,10,18,1,0,55.6,1,4,ODI # 4659
+2,Pakistan vs Netherlands,Netherlands,Roelof van der Merwe,8,4,7,0,0,57.1,1,0,ODI # 4659
+2,Pakistan vs Netherlands,Netherlands,Logan van Beek,9,28,28,3,1,100,0,18,ODI # 4659
+2,Pakistan vs Netherlands,Netherlands,Aryan Dutt,10,1,2,0,0,50,1,0,ODI # 4659
+2,Pakistan vs Netherlands,Netherlands,Paul van Meekeren,11,7,12,1,0,58.3,1,4,ODI # 4659
+3,Afghanistan vs Bangladesh,Afghanistan,Rahmanullah Gurbaz,1,47,62,4,1,75.8,1,22,ODI # 4660
+3,Afghanistan vs Bangladesh,Afghanistan,Ibrahim Zadran,2,22,25,3,1,88,1,18,ODI # 4660
+3,Afghanistan vs Bangladesh,Afghanistan,Rahmat Shah,3,18,25,1,0,72,1,4,ODI # 4660
+3,Afghanistan vs Bangladesh,Afghanistan,Hashmatullah Shahidi,4,18,38,2,0,47.4,1,8,ODI # 4660
+3,Afghanistan vs Bangladesh,Afghanistan,Najibullah Zadran,5,5,13,0,0,38.5,1,0,ODI # 4660
+3,Afghanistan vs Bangladesh,Afghanistan,Mohammad Nabi,6,6,12,0,0,50,1,0,ODI # 4660
+3,Afghanistan vs Bangladesh,Afghanistan,Azmatullah Omarzai,7,22,20,4,0,110,1,16,ODI # 4660
+3,Afghanistan vs Bangladesh,Afghanistan,Rashid Khan,8,9,16,1,0,56.3,1,4,ODI # 4660
+3,Afghanistan vs Bangladesh,Afghanistan,Mujeeb Ur Rahman,9,1,4,0,0,25,1,0,ODI # 4660
+3,Afghanistan vs Bangladesh,Afghanistan,Naveen-ul-Haq,10,0,6,0,0,0,1,0,ODI # 4660
+3,Afghanistan vs Bangladesh,Afghanistan,Fazalhaq Farooqi,11,0,3,0,0,0,0,0,ODI # 4660
+3,Afghanistan vs Bangladesh,Bangladesh,Tanzid Hasan,1,5,13,1,0,38.5,1,4,ODI # 4660
+3,Afghanistan vs Bangladesh,Bangladesh,Litton Das,2,13,18,2,0,72.2,1,8,ODI # 4660
+3,Afghanistan vs Bangladesh,Bangladesh,Mehidy Hasan Miraz,3,57,73,5,0,78.1,1,20,ODI # 4660
+3,Afghanistan vs Bangladesh,Bangladesh,Najmul Hossain Shanto,4,59,83,3,1,71.1,0,18,ODI # 4660
+3,Afghanistan vs Bangladesh,Bangladesh,Shakib Al Hasan,5,14,19,2,0,73.7,1,8,ODI # 4660
+3,Afghanistan vs Bangladesh,Bangladesh,Mustafizur Rahman,6,2,3,0,0,66.7,0,0,ODI # 4660
+4,South Africa vs Sri Lanka,South Africa,Quinton de Kock,1,100,84,12,3,119,1,66,ODI # 4661
+4,South Africa vs Sri Lanka,South Africa,Temba Bavuma,2,8,5,2,0,160,1,8,ODI # 4661
+4,South Africa vs Sri Lanka,South Africa,Rassie van der Dussen,3,108,110,13,2,98.2,1,64,ODI # 4661
+4,South Africa vs Sri Lanka,South Africa,Aiden Markram,4,106,54,14,3,196.3,1,74,ODI # 4661
+4,South Africa vs Sri Lanka,South Africa,Heinrich Klaasen,5,32,20,1,3,160,1,22,ODI # 4661
+4,South Africa vs Sri Lanka,South Africa,David Miller,6,39,21,3,2,185.7,0,24,ODI # 4661
+4,South Africa vs Sri Lanka,South Africa,Marco Jansen,7,12,7,0,1,171.4,0,6,ODI # 4661
+4,South Africa vs Sri Lanka,Sri Lanka,Pathum Nissanka,1,0,3,0,0,0,1,0,ODI # 4661
+4,South Africa vs Sri Lanka,Sri Lanka,Kusal Janith Perera,2,7,15,1,0,46.7,1,4,ODI # 4661
+4,South Africa vs Sri Lanka,Sri Lanka,Kusal Mendis,3,76,42,4,8,181,1,64,ODI # 4661
+4,South Africa vs Sri Lanka,Sri Lanka,Sadeera Samarawickrama,4,23,19,3,1,121.1,1,18,ODI # 4661
+4,South Africa vs Sri Lanka,Sri Lanka,Charith Asalanka,5,79,65,8,4,121.5,1,56,ODI # 4661
+4,South Africa vs Sri Lanka,Sri Lanka,Dhananjaya de Silva,6,11,14,1,0,78.6,1,4,ODI # 4661
+4,South Africa vs Sri Lanka,Sri Lanka,Dasun Shanaka,7,68,62,6,3,109.7,1,42,ODI # 4661
+4,South Africa vs Sri Lanka,Sri Lanka,Dunith Wellalage,8,0,1,0,0,0,1,0,ODI # 4661
+4,South Africa vs Sri Lanka,Sri Lanka,Kasun Rajitha,9,33,31,4,1,106.5,1,22,ODI # 4661
+4,South Africa vs Sri Lanka,Sri Lanka,Matheesha Pathirana,10,5,16,1,0,31.3,1,4,ODI # 4661
+4,South Africa vs Sri Lanka,Sri Lanka,Dilshan Madushanka,11,4,2,1,0,200,0,4,ODI # 4661
+5,Australia vs India,Australia,David Warner,1,41,52,6,0,78.8,1,24,ODI # 4662
+5,Australia vs India,Australia,Mitchell Marsh,2,0,6,0,0,0,1,0,ODI # 4662
+5,Australia vs India,Australia,Steve Smith,3,46,71,5,0,64.8,1,20,ODI # 4662
+5,Australia vs India,Australia,Marnus Labuschagne,4,27,41,1,0,65.9,1,4,ODI # 4662
+5,Australia vs India,Australia,Glenn Maxwell,5,15,25,1,0,60,1,4,ODI # 4662
+5,Australia vs India,Australia,Alex Carey,6,0,2,0,0,0,1,0,ODI # 4662
+5,Australia vs India,Australia,Cameron Green,7,8,20,0,0,40,1,0,ODI # 4662
+5,Australia vs India,Australia,Pat Cummins,8,15,24,1,1,62.5,1,10,ODI # 4662
+5,Australia vs India,Australia,Mitchell Starc,9,28,35,2,1,80,1,14,ODI # 4662
+5,Australia vs India,Australia,Adam Zampa,10,6,20,0,0,30,1,0,ODI # 4662
+5,Australia vs India,Australia,Josh Hazlewood,11,1,1,0,0,100,0,0,ODI # 4662
+5,Australia vs India,India,Rohit Sharma,1,0,6,0,0,0,1,0,ODI # 4662
+5,Australia vs India,India,Ishan Kishan,2,0,1,0,0,0,1,0,ODI # 4662
+5,Australia vs India,India,Virat Kohli,3,85,116,6,0,73.3,1,24,ODI # 4662
+5,Australia vs India,India,Shreyas Iyer,4,0,3,0,0,0,1,0,ODI # 4662
+5,Australia vs India,India,KL Rahul,5,97,115,8,2,84.3,0,44,ODI # 4662
+5,Australia vs India,India,Hardik Pandya,6,11,8,0,1,137.5,0,6,ODI # 4662
+6,New Zealand vs Netherlands,New Zealand,Devon Conway,1,32,40,5,1,80,1,26,ODI # 4663
+6,New Zealand vs Netherlands,New Zealand,Will Young,2,70,80,7,2,87.5,1,40,ODI # 4663
+6,New Zealand vs Netherlands,New Zealand,Rachin Ravindra,3,51,51,3,1,100,1,18,ODI # 4663
+6,New Zealand vs Netherlands,New Zealand,Daryl Mitchell,4,48,47,5,2,102.1,1,32,ODI # 4663
+6,New Zealand vs Netherlands,New Zealand,Tom Latham,5,53,46,6,1,115.2,1,30,ODI # 4663
+6,New Zealand vs Netherlands,New Zealand,Glenn Phillips,6,4,4,1,0,100,1,4,ODI # 4663
+6,New Zealand vs Netherlands,New Zealand,Mark Chapman,7,5,13,0,0,38.5,1,0,ODI # 4663
+6,New Zealand vs Netherlands,New Zealand,Mitchell Santner,8,36,17,3,2,211.8,0,24,ODI # 4663
+6,New Zealand vs Netherlands,New Zealand,Matt Henry,9,10,4,0,1,250,0,6,ODI # 4663
+6,New Zealand vs Netherlands,Netherlands,Vikramjit Singh,1,12,20,1,0,60,1,4,ODI # 4663
+6,New Zealand vs Netherlands,Netherlands,Max O'Dowd,2,16,31,2,0,51.6,1,8,ODI # 4663
+6,New Zealand vs Netherlands,Netherlands,Colin Ackermann,3,69,73,5,0,94.5,1,20,ODI # 4663
+6,New Zealand vs Netherlands,Netherlands,Bas de Leede,4,18,25,3,0,72,1,12,ODI # 4663
+6,New Zealand vs Netherlands,Netherlands,Teja Nidamanuru,5,21,26,2,1,80.8,1,14,ODI # 4663
+6,New Zealand vs Netherlands,Netherlands,Scott Edwards,6,30,27,2,1,111.1,1,14,ODI # 4663
+6,New Zealand vs Netherlands,Netherlands,Sybrand Engelbrecht,7,29,34,3,0,85.3,1,12,ODI # 4663
+6,New Zealand vs Netherlands,Netherlands,Roelof van der Merwe,8,1,6,0,0,16.7,1,0,ODI # 4663
+6,New Zealand vs Netherlands,Netherlands,Ryan Klein,9,8,15,0,0,53.3,1,0,ODI # 4663
+6,New Zealand vs Netherlands,Netherlands,Aryan Dutt,10,11,20,0,1,55,1,6,ODI # 4663
+6,New Zealand vs Netherlands,Netherlands,Paul van Meekeren,11,4,3,1,0,133.3,0,4,ODI # 4663
+7,England vs Bangladesh,England,Jonny Bairstow,1,52,59,8,0,88.136,1,32,ODI # 4664
+7,England vs Bangladesh,England,Dawid Malan,2,140,107,16,5,130.841,1,94,ODI # 4664
+7,England vs Bangladesh,England,Joe Root,3,82,68,8,1,120.588,1,38,ODI # 4664
+7,England vs Bangladesh,England,Jos Buttler,4,20,10,1,1,200,1,10,ODI # 4664
+7,England vs Bangladesh,England,Harry Brook,5,20,15,3,0,133.333,1,12,ODI # 4664
+7,England vs Bangladesh,England,Liam Livingstone,6,0,1,0,0,0,1,0,ODI # 4664
+7,England vs Bangladesh,England,Sam Curran,7,11,15,1,0,73.333,1,4,ODI # 4664
+7,England vs Bangladesh,England,Chris Woakes,8,14,11,2,0,127.273,1,8,ODI # 4664
+7,England vs Bangladesh,England,Adil Rashid,9,11,7,1,0,157.143,1,4,ODI # 4664
+7,England vs Bangladesh,England,Mark Wood,10,6,5,1,0,120,0,4,ODI # 4664
+7,England vs Bangladesh,England,Reece Topley,11,1,2,0,0,50,0,0,ODI # 4664
+7,England vs Bangladesh,Bangladesh,Litton Das,1,76,66,7,2,115.152,1,40,ODI # 4664
+7,England vs Bangladesh,Bangladesh,Tanzim Hasan,2,1,2,0,0,50,1,0,ODI # 4664
+7,England vs Bangladesh,Bangladesh,Najmul Hossain Shanto,3,0,1,0,0,0,1,0,ODI # 4664
+7,England vs Bangladesh,Bangladesh,Shakib Al Hasan,4,1,9,0,0,11.111,1,0,ODI # 4664
+7,England vs Bangladesh,Bangladesh,Mehidy Hasan Miraz,5,8,7,1,0,114.286,1,4,ODI # 4664
+7,England vs Bangladesh,Bangladesh,Mushfiqur Rahim,6,51,64,4,0,79.688,1,16,ODI # 4664
+7,England vs Bangladesh,Bangladesh,Towhid Hridoy,7,39,61,2,0,63.934,1,8,ODI # 4664
+7,England vs Bangladesh,Bangladesh,Mahedi Hasan,8,14,32,1,0,43.75,1,4,ODI # 4664
+7,England vs Bangladesh,Bangladesh,Taskin Ahmed,9,15,25,0,1,60,1,6,ODI # 4664
+7,England vs Bangladesh,Bangladesh,Shoriful Islam,10,12,14,2,0,85.714,1,8,ODI # 4664
+7,England vs Bangladesh,Bangladesh,Mustafizur Rahman,11,3,9,0,0,33.333,0,0,ODI # 4664
+8,Sri Lanka vs Pakistan,Sri Lanka,Pathum Nissanka,1,51,61,7,1,83.607,1,34,ODI # 4665
+8,Sri Lanka vs Pakistan,Sri Lanka,Kusal Janith Perera,2,0,4,0,0,0,1,0,ODI # 4665
+8,Sri Lanka vs Pakistan,Sri Lanka,Kusal Mendis,3,122,77,14,6,158.442,1,92,ODI # 4665
+8,Sri Lanka vs Pakistan,Sri Lanka,Sadeera Samarawickrama,4,108,89,11,2,121.348,1,56,ODI # 4665
+8,Sri Lanka vs Pakistan,Sri Lanka,Charith Asalanka,5,1,3,0,0,33.333,1,0,ODI # 4665
+8,Sri Lanka vs Pakistan,Sri Lanka,Dhananjaya de Silva,6,25,34,3,0,73.529,1,12,ODI # 4665
+8,Sri Lanka vs Pakistan,Sri Lanka,Dasun Shanaka,7,12,18,0,0,66.667,1,0,ODI # 4665
+8,Sri Lanka vs Pakistan,Sri Lanka,Dunith Wellalage,8,10,8,1,0,125,1,4,ODI # 4665
+8,Sri Lanka vs Pakistan,Sri Lanka,Maheesh Theekshana,9,0,4,0,0,0,1,0,ODI # 4665
+8,Sri Lanka vs Pakistan,Sri Lanka,Matheesha Pathirana,10,1,3,0,0,33.333,1,0,ODI # 4665
+8,Sri Lanka vs Pakistan,Pakistan,Abdullah Shafique,1,113,103,10,3,109.709,1,58,ODI # 4665
+8,Sri Lanka vs Pakistan,Pakistan,Imam-ul-Haq,2,12,12,1,0,100,1,4,ODI # 4665
+8,Sri Lanka vs Pakistan,Pakistan,Babar Azam,3,10,15,1,0,66.667,1,4,ODI # 4665
+8,Sri Lanka vs Pakistan,Pakistan,Mohammad Rizwan,4,131,121,8,3,108.264,0,50,ODI # 4665
+8,Sri Lanka vs Pakistan,Pakistan,Saud Shakeel,5,31,30,2,0,103.333,1,8,ODI # 4665
+8,Sri Lanka vs Pakistan,Pakistan,Iftikhar Ahmed,6,22,10,4,0,220,0,16,ODI # 4665
+9,Afghanistan vs India,Afghanistan,Rahmanullah Gurbaz,1,21,28,3,1,75,1,18,ODI # 4666
+9,Afghanistan vs India,Afghanistan,Ibrahim Zadran,2,22,28,4,0,78.6,1,16,ODI # 4666
+9,Afghanistan vs India,Afghanistan,Rahmat Shah,3,16,22,3,0,72.7,1,12,ODI # 4666
+9,Afghanistan vs India,Afghanistan,Hashmatullah Shahidi,4,80,88,8,1,90.9,1,38,ODI # 4666
+9,Afghanistan vs India,Afghanistan,Azmatullah Omarzai,5,62,69,2,4,89.9,1,32,ODI # 4666
+9,Afghanistan vs India,Afghanistan,Mohammad Nabi,6,19,27,1,0,70.4,1,4,ODI # 4666
+9,Afghanistan vs India,Afghanistan,Najibullah Zadran,7,2,8,0,0,25,1,0,ODI # 4666
+9,Afghanistan vs India,Afghanistan,Rashid Khan,8,16,12,1,1,133.3,1,10,ODI # 4666
+9,Afghanistan vs India,Afghanistan,Mujeeb Ur Rahman,9,10,12,2,0,83.3,0,8,ODI # 4666
+9,Afghanistan vs India,Afghanistan,Naveen-ul-Haq,10,9,8,1,0,112.5,0,4,ODI # 4666
+9,Afghanistan vs India,India,Rohit Sharma,1,131,84,16,5,156,1,94,ODI # 4666
+9,Afghanistan vs India,India,Ishan Kishan,2,47,47,5,2,100,1,32,ODI # 4666
+9,Afghanistan vs India,India,Virat Kohli,3,55,56,6,0,98.2,0,24,ODI # 4666
+9,Afghanistan vs India,India,Shreyas Iyer,4,25,23,1,1,108.7,0,10,ODI # 4666
+10,South Africa vs Australia,South Africa,Quinton de Kock,1,109,106,8,5,102.83,1,62,ODI # 4667
+10,South Africa vs Australia,South Africa,Temba Bavuma,2,35,55,2,0,63.636,1,8,ODI # 4667
+10,South Africa vs Australia,South Africa,Rassie van der Dussen,3,26,30,2,0,86.667,1,8,ODI # 4667
+10,South Africa vs Australia,South Africa,Aiden Markram,4,56,44,7,1,127.273,1,34,ODI # 4667
+10,South Africa vs Australia,South Africa,Heinrich Klaasen,5,29,27,3,0,107.407,1,12,ODI # 4667
+10,South Africa vs Australia,South Africa,David Miller,6,17,13,1,1,130.769,1,10,ODI # 4667
+10,South Africa vs Australia,South Africa,Marco Jansen,7,26,22,3,1,118.182,1,18,ODI # 4667
+10,South Africa vs Australia,South Africa,Kagiso Rabada,8,0,1,0,0,0,0,0,ODI # 4667
+10,South Africa vs Australia,South Africa,Keshav Maharaj,9,0,2,0,0,0,0,0,ODI # 4667
+10,South Africa vs Australia,Australia,Mitchell Marsh,1,7,15,0,0,46.667,1,0,ODI # 4667
+10,South Africa vs Australia,Australia,David Warner,2,13,27,2,0,48.148,1,8,ODI # 4667
+10,South Africa vs Australia,Australia,Steve Smith,3,19,16,4,0,118.75,1,16,ODI # 4667
+10,South Africa vs Australia,Australia,Marnus Labuschagne,4,46,74,3,0,62.162,1,12,ODI # 4667
+10,South Africa vs Australia,Australia,Josh Inglis,5,5,4,1,0,125,1,4,ODI # 4667
+10,South Africa vs Australia,Australia,Glenn Maxwell,6,3,17,0,0,17.647,1,0,ODI # 4667
+10,South Africa vs Australia,Australia,Marcus Stoinis,7,5,4,1,0,125,1,4,ODI # 4667
+10,South Africa vs Australia,Australia,Mitchell Starc,8,27,51,3,0,52.941,1,12,ODI # 4667
+10,South Africa vs Australia,Australia,Pat Cummins,9,22,21,4,0,104.762,1,16,ODI # 4667
+10,South Africa vs Australia,Australia,Adam Zampa,10,11,16,1,0,68.75,0,4,ODI # 4667
+10,South Africa vs Australia,Australia,Josh Hazlewood,11,2,2,0,0,100,1,0,ODI # 4667
+11,Bangladesh vs New Zealand,Bangladesh,Litton Das,1,0,1,0,0,0,1,0,ODI # 4668
+11,Bangladesh vs New Zealand,Bangladesh,Tanzid Hasan,2,16,17,4,0,94.118,1,16,ODI # 4668
+11,Bangladesh vs New Zealand,Bangladesh,Mehidy Hasan Miraz,3,30,46,4,0,65.217,1,16,ODI # 4668
+11,Bangladesh vs New Zealand,Bangladesh,Najmul Hossain Shanto,4,7,8,1,0,87.5,1,4,ODI # 4668
+11,Bangladesh vs New Zealand,Bangladesh,Shakib Al Hasan,5,40,51,3,2,78.431,1,24,ODI # 4668
+11,Bangladesh vs New Zealand,Bangladesh,Mushfiqur Rahim,6,66,75,6,2,88,1,36,ODI # 4668
+11,Bangladesh vs New Zealand,Bangladesh,Towhid Hridoy,7,13,25,0,0,52,1,0,ODI # 4668
+11,Bangladesh vs New Zealand,Bangladesh,Mahmudullah,8,41,49,2,2,83.673,0,20,ODI # 4668
+11,Bangladesh vs New Zealand,Bangladesh,Taskin Ahmed,9,17,19,0,2,89.474,1,12,ODI # 4668
+11,Bangladesh vs New Zealand,Bangladesh,Mustafizur Rahman,10,4,10,0,0,40,1,0,ODI # 4668
+11,Bangladesh vs New Zealand,Bangladesh,Shoriful Islam,11,2,3,0,0,66.667,0,0,ODI # 4668
+11,Bangladesh vs New Zealand,New Zealand,Devon Conway,1,45,59,3,0,76.271,1,12,ODI # 4668
+11,Bangladesh vs New Zealand,New Zealand,Rachin Ravindra,2,9,13,2,0,69.231,1,8,ODI # 4668
+11,Bangladesh vs New Zealand,New Zealand,Kane Williamson,3,78,107,8,1,72.897,1,38,ODI # 4668
+11,Bangladesh vs New Zealand,New Zealand,Daryl Mitchell,4,89,67,6,4,132.836,0,48,ODI # 4668
+11,Bangladesh vs New Zealand,New Zealand,Glenn Phillips,5,16,11,1,1,145.455,0,10,ODI # 4668
+12,Pakistan vs India,Pakistan,Abdullah Shafique,1,20,24,3,0,83.3,1,12,ODI # 4669
+12,Pakistan vs India,Pakistan,Imam-ul-Haq,2,36,38,6,0,94.7,1,24,ODI # 4669
+12,Pakistan vs India,Pakistan,Babar Azam,3,50,58,7,0,86.2,1,28,ODI # 4669
+12,Pakistan vs India,Pakistan,Mohammad Rizwan,4,49,69,7,0,71,1,28,ODI # 4669
+12,Pakistan vs India,Pakistan,Saud Shakeel,5,6,10,0,0,60,1,0,ODI # 4669
+12,Pakistan vs India,Pakistan,Iftikhar Ahmed,6,4,4,1,0,100,1,4,ODI # 4669
+12,Pakistan vs India,Pakistan,Shadab Khan,7,2,5,0,0,40,1,0,ODI # 4669
+12,Pakistan vs India,Pakistan,Mohammad Nawaz,8,4,14,0,0,28.6,1,0,ODI # 4669
+12,Pakistan vs India,Pakistan,Hasan Ali,9,12,19,2,0,63.2,1,8,ODI # 4669
+12,Pakistan vs India,Pakistan,Shaheen Afridi,10,2,10,0,0,20,0,0,ODI # 4669
+12,Pakistan vs India,Pakistan,Haris Rauf,11,2,6,0,0,33.3,1,0,ODI # 4669
+12,Pakistan vs India,India,Rohit Sharma,1,86,63,6,6,136.5,1,60,ODI # 4669
+12,Pakistan vs India,India,Shubman Gill,2,16,11,4,0,145.5,1,16,ODI # 4669
+12,Pakistan vs India,India,Virat Kohli,3,16,18,3,0,88.9,1,12,ODI # 4669
+12,Pakistan vs India,India,Shreyas Iyer,4,53,62,3,2,85.5,0,24,ODI # 4669
+12,Pakistan vs India,India,KL Rahul,5,19,29,2,0,65.5,0,8,ODI # 4669
+13,Afghanistan vs England,Afghanistan,Rahmanullah Gurbaz,1,80,57,8,4,140.351,1,56,ODI # 4670
+13,Afghanistan vs England,Afghanistan,Ibrahim Zadran,2,28,48,3,0,58.333,1,12,ODI # 4670
+13,Afghanistan vs England,Afghanistan,Rahmat Shah,3,3,8,0,0,37.5,1,0,ODI # 4670
+13,Afghanistan vs England,Afghanistan,Hashmatullah Shahidi,4,14,36,0,0,38.889,1,0,ODI # 4670
+13,Afghanistan vs England,Afghanistan,Azmatullah Omarzai,5,19,24,1,1,79.167,1,10,ODI # 4670
+13,Afghanistan vs England,Afghanistan,Ikram Alikhil,6,58,66,3,2,87.879,1,24,ODI # 4670
+13,Afghanistan vs England,Afghanistan,Mohammad Nabi,7,9,15,1,0,60,1,4,ODI # 4670
+13,Afghanistan vs England,Afghanistan,Rashid Khan,8,23,22,3,0,104.545,1,12,ODI # 4670
+13,Afghanistan vs England,Afghanistan,Mujeeb Ur Rahman,9,28,16,3,1,175,1,18,ODI # 4670
+13,Afghanistan vs England,Afghanistan,Naveen-ul-Haq,10,5,6,1,0,83.333,1,4,ODI # 4670
+13,Afghanistan vs England,Afghanistan,Fazalhaq Farooqi,11,2,4,0,0,50,0,0,ODI # 4670
+13,Afghanistan vs England,England,Jonny Bairstow,1,2,4,0,0,50,1,0,ODI # 4670
+13,Afghanistan vs England,England,Dawid Malan,2,32,39,4,0,82.051,1,16,ODI # 4670
+13,Afghanistan vs England,England,Joe Root,3,11,17,2,0,64.706,1,8,ODI # 4670
+13,Afghanistan vs England,England,Harry Brook,4,66,61,7,1,108.197,1,34,ODI # 4670
+13,Afghanistan vs England,England,Jos Buttler,5,9,18,1,0,50,1,4,ODI # 4670
+13,Afghanistan vs England,England,Liam Livingstone,6,10,14,1,0,71.429,1,4,ODI # 4670
+13,Afghanistan vs England,England,Sam Curran,7,10,23,0,0,43.478,1,0,ODI # 4670
+13,Afghanistan vs England,England,Chris Woakes,8,9,26,1,0,34.615,1,4,ODI # 4670
+13,Afghanistan vs England,England,Adil Rashid,9,20,13,2,0,153.846,1,8,ODI # 4670
+13,Afghanistan vs England,England,Mark Wood,10,18,22,3,0,81.818,1,12,ODI # 4670
+13,Afghanistan vs England,England,Reece Topley,11,15,7,3,0,214.286,0,12,ODI # 4670
+14,Sri Lanka vs Australia,Sri Lanka,Pathum Nissanka,1,61,67,8,0,91.045,1,32,ODI # 4671
+14,Sri Lanka vs Australia,Sri Lanka,Kusal Janith Perera,2,78,82,12,0,95.122,1,48,ODI # 4671
+14,Sri Lanka vs Australia,Sri Lanka,Kusal Mendis,3,9,13,0,0,69.231,1,0,ODI # 4671
+14,Sri Lanka vs Australia,Sri Lanka,Sadeera Samarawickrama,4,8,8,1,0,100,1,4,ODI # 4671
+14,Sri Lanka vs Australia,Sri Lanka,Charith Asalanka,5,25,39,0,1,64.103,1,6,ODI # 4671
+14,Sri Lanka vs Australia,Sri Lanka,Dhananjaya de Silva,6,7,13,1,0,53.846,1,4,ODI # 4671
+14,Sri Lanka vs Australia,Sri Lanka,Dunith Wellalage,7,2,9,0,0,22.222,1,0,ODI # 4671
+14,Sri Lanka vs Australia,Sri Lanka,Chamika Karunaratne,8,2,11,0,0,18.182,1,0,ODI # 4671
+14,Sri Lanka vs Australia,Sri Lanka,Maheesh Theekshana,9,0,5,0,0,0,1,0,ODI # 4671
+14,Sri Lanka vs Australia,Sri Lanka,Lahiru Kumara,10,4,8,1,0,50,1,4,ODI # 4671
+14,Sri Lanka vs Australia,Sri Lanka,Dilshan Madushanka,11,0,6,0,0,0,0,0,ODI # 4671
+14,Sri Lanka vs Australia,Australia,Mitchell Marsh,1,52,51,9,0,101.961,1,36,ODI # 4671
+14,Sri Lanka vs Australia,Australia,David Warner,2,11,6,0,1,183.333,1,6,ODI # 4671
+14,Sri Lanka vs Australia,Australia,Steve Smith,3,0,5,0,0,0,1,0,ODI # 4671
+14,Sri Lanka vs Australia,Australia,Marnus Labuschagne,4,40,60,2,0,66.667,1,8,ODI # 4671
+14,Sri Lanka vs Australia,Australia,Josh Inglis,5,58,59,5,1,98.305,1,26,ODI # 4671
+14,Sri Lanka vs Australia,Australia,Glenn Maxwell,6,31,21,4,2,147.619,0,28,ODI # 4671
+14,Sri Lanka vs Australia,Australia,Marcus Stoinis,7,20,10,2,1,200,0,14,ODI # 4671
+15,Netherlands vs South Africa,Netherlands,Vikramjit Singh,1,2,16,0,0,12.5,1,0,ODI # 4672
+15,Netherlands vs South Africa,Netherlands,Max O'Dowd,2,18,25,4,0,72,1,16,ODI # 4672
+15,Netherlands vs South Africa,Netherlands,Colin Ackermann,3,12,25,1,0,48,1,4,ODI # 4672
+15,Netherlands vs South Africa,Netherlands,Bas de Leede,4,2,7,0,0,28.571,1,0,ODI # 4672
+15,Netherlands vs South Africa,Netherlands,Sybrand Engelbrecht,5,19,37,1,1,51.351,1,10,ODI # 4672
+15,Netherlands vs South Africa,Netherlands,Teja Nidamanuru,6,20,25,3,0,80,1,12,ODI # 4672
+15,Netherlands vs South Africa,Netherlands,Scott Edwards,7,78,69,10,1,113.043,0,46,ODI # 4672
+15,Netherlands vs South Africa,Netherlands,Logan van Beek,8,10,27,1,0,37.037,1,4,ODI # 4672
+15,Netherlands vs South Africa,Netherlands,Roelof van der Merwe,9,29,19,3,1,152.632,1,18,ODI # 4672
+15,Netherlands vs South Africa,Netherlands,Aryan Dutt,10,23,9,0,3,255.556,0,18,ODI # 4672
+15,Netherlands vs South Africa,South Africa,Temba Bavuma,1,16,31,2,1,51.613,1,14,ODI # 4672
+15,Netherlands vs South Africa,South Africa,Quinton de Kock,2,20,22,3,0,90.909,1,12,ODI # 4672
+15,Netherlands vs South Africa,South Africa,Rassie van der Dussen,3,4,7,0,0,57.143,1,0,ODI # 4672
+15,Netherlands vs South Africa,South Africa,Aiden Markram,4,1,3,0,0,33.333,1,0,ODI # 4672
+15,Netherlands vs South Africa,South Africa,Heinrich Klaasen,5,28,28,4,0,100,1,16,ODI # 4672
+15,Netherlands vs South Africa,South Africa,David Miller,6,43,52,4,1,82.692,1,22,ODI # 4672
+15,Netherlands vs South Africa,South Africa,Marco Jansen,7,9,25,0,0,36,1,0,ODI # 4672
+15,Netherlands vs South Africa,South Africa,Gerald Coetzee,8,22,23,2,1,95.652,1,14,ODI # 4672
+15,Netherlands vs South Africa,South Africa,Keshav Maharaj,9,40,37,5,1,108.108,1,26,ODI # 4672
+15,Netherlands vs South Africa,South Africa,Kagiso Rabada,10,9,6,0,1,150,1,6,ODI # 4672
+15,Netherlands vs South Africa,South Africa,Lungi Ngidi,11,7,24,0,0,29.167,0,0,ODI # 4672
+16,New Zealand vs Afghanistan,New Zealand,Devon Conway,1,20,18,3,0,111.111,1,12,ODI # 4673
+16,New Zealand vs Afghanistan,New Zealand,Will Young,2,54,64,4,3,84.375,1,34,ODI # 4673
+16,New Zealand vs Afghanistan,New Zealand,Rachin Ravindra,3,32,41,2,1,78.049,1,14,ODI # 4673
+16,New Zealand vs Afghanistan,New Zealand,Daryl Mitchell,4,1,7,0,0,14.286,1,0,ODI # 4673
+16,New Zealand vs Afghanistan,New Zealand,Tom Latham,5,68,74,3,2,91.892,1,24,ODI # 4673
+16,New Zealand vs Afghanistan,New Zealand,Glenn Phillips,6,71,80,4,4,88.75,1,40,ODI # 4673
+16,New Zealand vs Afghanistan,New Zealand,Mark Chapman,7,25,12,2,1,208.333,0,14,ODI # 4673
+16,New Zealand vs Afghanistan,New Zealand,Mitchell Santner,8,7,5,1,0,140,0,4,ODI # 4673
+16,New Zealand vs Afghanistan,Afghanistan,Rahmanullah Gurbaz,1,11,21,0,1,52.381,1,6,ODI # 4673
+16,New Zealand vs Afghanistan,Afghanistan,Ibrahim Zadran,2,14,15,2,0,93.333,1,8,ODI # 4673
+16,New Zealand vs Afghanistan,Afghanistan,Rahmat Shah,3,36,62,1,0,58.065,1,4,ODI # 4673
+16,New Zealand vs Afghanistan,Afghanistan,Hashmatullah Shahidi,4,8,29,1,0,27.586,1,4,ODI # 4673
+16,New Zealand vs Afghanistan,Afghanistan,Azmatullah Omarzai,5,27,32,2,0,84.375,1,8,ODI # 4673
+16,New Zealand vs Afghanistan,Afghanistan,Ikram Alikhil,6,19,21,3,0,90.476,0,12,ODI # 4673
+16,New Zealand vs Afghanistan,Afghanistan,Mohammad Nabi,7,7,9,1,0,77.778,1,4,ODI # 4673
+16,New Zealand vs Afghanistan,Afghanistan,Rashid Khan,8,8,13,0,1,61.538,1,6,ODI # 4673
+16,New Zealand vs Afghanistan,Afghanistan,Mujeeb Ur Rahman,9,4,3,1,0,133.333,1,4,ODI # 4673
+16,New Zealand vs Afghanistan,Afghanistan,Naveen-ul-Haq,10,0,1,0,0,0,1,0,ODI # 4673
+16,New Zealand vs Afghanistan,Afghanistan,Fazalhaq Farooqi,11,0,2,0,0,0,1,0,ODI # 4673
+17,Bangladesh vs India,Bangladesh,Tanzid Hasan,1,51,43,5,3,118.605,1,38,ODI # 4674
+17,Bangladesh vs India,Bangladesh,Litton Das,2,66,82,7,0,80.488,1,28,ODI # 4674
+17,Bangladesh vs India,Bangladesh,Najmul Hossain Shanto,3,8,17,0,0,47.059,1,0,ODI # 4674
+17,Bangladesh vs India,Bangladesh,Mehidy Hasan Miraz,4,3,13,0,0,23.077,1,0,ODI # 4674
+17,Bangladesh vs India,Bangladesh,Towhid Hridoy,5,16,35,0,0,45.714,1,0,ODI # 4674
+17,Bangladesh vs India,Bangladesh,Mushfiqur Rahim,6,38,46,1,1,82.609,1,10,ODI # 4674
+17,Bangladesh vs India,Bangladesh,Mahmudullah,7,46,36,3,3,127.778,1,30,ODI # 4674
+17,Bangladesh vs India,Bangladesh,Nasum Ahmed,8,14,18,2,0,77.778,1,8,ODI # 4674
+17,Bangladesh vs India,Bangladesh,Mustafizur Rahman,9,1,7,0,0,14.286,0,0,ODI # 4674
+17,Bangladesh vs India,Bangladesh,Shoriful Islam,10,7,3,0,1,233.333,0,6,ODI # 4674
+17,Bangladesh vs India,India,Rohit Sharma,1,48,40,7,2,120,1,40,ODI # 4674
+17,Bangladesh vs India,India,Shubman Gill,2,53,55,5,2,96.364,1,32,ODI # 4674
+17,Bangladesh vs India,India,Virat Kohli,3,103,97,6,4,106.186,0,48,ODI # 4674
+17,Bangladesh vs India,India,Shreyas Iyer,4,19,25,2,0,76,1,8,ODI # 4674
+17,Bangladesh vs India,India,KL Rahul,5,34,34,3,1,100,0,18,ODI # 4674
+18,Australia vs Pakistan,Australia,David Warner,1,163,124,14,9,131.452,1,110,ODI # 4675
+18,Australia vs Pakistan,Australia,Mitchell Marsh,2,121,108,10,9,112.037,1,94,ODI # 4675
+18,Australia vs Pakistan,Australia,Glenn Maxwell,3,0,1,0,0,0,1,0,ODI # 4675
+18,Australia vs Pakistan,Australia,Steve Smith,4,7,9,0,0,77.778,1,0,ODI # 4675
+18,Australia vs Pakistan,Australia,Marcus Stoinis,5,21,24,1,1,87.5,1,10,ODI # 4675
+18,Australia vs Pakistan,Australia,Josh Inglis,6,13,9,3,0,144.444,1,12,ODI # 4675
+18,Australia vs Pakistan,Australia,Marnus Labuschagne,7,8,12,1,0,66.667,1,4,ODI # 4675
+18,Australia vs Pakistan,Australia,Pat Cummins,8,6,8,0,0,75,1,0,ODI # 4675
+18,Australia vs Pakistan,Australia,Mitchell Starc,9,2,3,0,0,66.667,1,0,ODI # 4675
+18,Australia vs Pakistan,Australia,Josh Hazlewood,10,0,1,0,0,0,1,0,ODI # 4675
+18,Australia vs Pakistan,Australia,Adam Zampa,11,1,1,0,0,100,1,0,ODI # 4675
+18,Australia vs Pakistan,Pakistan,Abdullah Shafique,1,64,61,7,2,104.918,1,40,ODI # 4675
+18,Australia vs Pakistan,Pakistan,Imam-ul-Haq,2,70,71,10,0,98.592,1,40,ODI # 4675
+18,Australia vs Pakistan,Pakistan,Babar Azam,3,18,14,3,0,128.571,1,12,ODI # 4675
+18,Australia vs Pakistan,Pakistan,Mohammad Rizwan,4,46,40,5,0,115,1,20,ODI # 4675
+18,Australia vs Pakistan,Pakistan,Saud Shakeel,5,30,31,5,0,96.774,1,20,ODI # 4675
+18,Australia vs Pakistan,Pakistan,Iftikhar Ahmed,6,26,20,0,3,130,1,18,ODI # 4675
+18,Australia vs Pakistan,Pakistan,Mohammad Nawaz,7,14,16,0,1,87.5,1,6,ODI # 4675
+18,Australia vs Pakistan,Pakistan,Usama Mir,8,0,3,0,0,0,1,0,ODI # 4675
+18,Australia vs Pakistan,Pakistan,Shaheen Afridi,9,10,8,2,0,125,1,8,ODI # 4675
+18,Australia vs Pakistan,Pakistan,Hasan Ali,10,8,8,2,0,100,1,8,ODI # 4675
+18,Australia vs Pakistan,Pakistan,Haris Rauf,11,0,1,0,0,0,0,0,ODI # 4675
+19,Netherlands vs Sri Lanka,Netherlands,Vikramjit Singh,1,4,13,1,0,30.769,1,4,ODI # 4676
+19,Netherlands vs Sri Lanka,Netherlands,Max O'Dowd,2,16,27,1,1,59.259,1,10,ODI # 4676
+19,Netherlands vs Sri Lanka,Netherlands,Colin Ackermann,3,29,31,5,0,93.548,1,20,ODI # 4676
+19,Netherlands vs Sri Lanka,Netherlands,Bas de Leede,4,6,21,0,0,28.571,1,0,ODI # 4676
+19,Netherlands vs Sri Lanka,Netherlands,Teja Nidamanuru,5,9,16,0,0,56.25,1,0,ODI # 4676
+19,Netherlands vs Sri Lanka,Netherlands,Scott Edwards,6,16,16,0,0,100,1,0,ODI # 4676
+19,Netherlands vs Sri Lanka,Netherlands,Sybrand Engelbrecht,7,70,82,4,1,85.366,1,22,ODI # 4676
+19,Netherlands vs Sri Lanka,Netherlands,Logan van Beek,8,59,75,1,1,78.667,1,10,ODI # 4676
+19,Netherlands vs Sri Lanka,Netherlands,Roelof van der Merwe,9,7,7,0,0,100,1,0,ODI # 4676
+19,Netherlands vs Sri Lanka,Netherlands,Aryan Dutt,10,9,6,1,0,150,0,4,ODI # 4676
+19,Netherlands vs Sri Lanka,Netherlands,Paul van Meekeren,11,4,5,0,0,80,1,0,ODI # 4676
+19,Netherlands vs Sri Lanka,Sri Lanka,Pathum Nissanka,1,54,52,9,0,103.846,1,36,ODI # 4676
+19,Netherlands vs Sri Lanka,Sri Lanka,Kusal Janith Perera,2,5,8,1,0,62.5,1,4,ODI # 4676
+19,Netherlands vs Sri Lanka,Sri Lanka,Kusal Mendis,3,11,17,2,0,64.706,1,8,ODI # 4676
+19,Netherlands vs Sri Lanka,Sri Lanka,Sadeera Samarawickrama,4,91,107,7,0,85.047,0,28,ODI # 4676
+19,Netherlands vs Sri Lanka,Sri Lanka,Charith Asalanka,5,44,66,2,1,66.667,1,14,ODI # 4676
+19,Netherlands vs Sri Lanka,Sri Lanka,Dhananjaya de Silva,6,30,37,1,2,81.081,1,16,ODI # 4676
+19,Netherlands vs Sri Lanka,Sri Lanka,Dushan Hemantha,7,4,3,1,0,133.333,0,4,ODI # 4676
+20,South Africa vs England,South Africa,Quinton de Kock,1,4,2,1,0,200,1,4,ODI # 4677
+20,South Africa vs England,South Africa,Reeza Hendricks,2,85,75,9,3,113.333,1,54,ODI # 4677
+20,South Africa vs England,South Africa,Rassie van der Dussen,3,60,61,8,0,98.361,1,32,ODI # 4677
+20,South Africa vs England,South Africa,Aiden Markram,4,42,44,4,0,95.455,1,16,ODI # 4677
+20,South Africa vs England,South Africa,Heinrich Klaasen,5,109,67,12,4,162.687,1,72,ODI # 4677
+20,South Africa vs England,South Africa,David Miller,6,5,6,1,0,83.333,1,4,ODI # 4677
+20,South Africa vs England,South Africa,Marco Jansen,7,75,42,3,6,178.571,0,48,ODI # 4677
+20,South Africa vs England,South Africa,Gerald Coetzee,8,3,3,0,0,100,1,0,ODI # 4677
+20,South Africa vs England,South Africa,Keshav Maharaj,9,1,1,0,0,100,0,0,ODI # 4677
+20,South Africa vs England,England,Jonny Bairstow,1,10,12,1,1,83.3,1,10,ODI # 4677
+20,South Africa vs England,England,Dawid Malan,2,6,11,1,0,54.5,1,4,ODI # 4677
+20,South Africa vs England,England,Joe Root,3,2,6,0,0,33.3,1,0,ODI # 4677
+20,South Africa vs England,England,Ben Stokes,4,5,8,1,0,62.5,1,4,ODI # 4677
+20,South Africa vs England,England,Harry Brook,5,17,25,2,1,68,1,14,ODI # 4677
+20,South Africa vs England,England,Jos Buttler,6,15,7,2,1,214.3,1,14,ODI # 4677
+20,South Africa vs England,England,David Willey,7,12,12,1,1,100,1,10,ODI # 4677
+20,South Africa vs England,England,Adil Rashid,8,10,14,1,0,71.4,1,4,ODI # 4677
+20,South Africa vs England,England,Gus Atkinson,9,35,21,7,0,166.7,1,28,ODI # 4677
+20,South Africa vs England,England,Mark Wood,10,43,17,2,5,252.9,0,38,ODI # 4677
+20,South Africa vs England,England,Reece Topley,11,0,0,0,0,0,1,0,ODI # 4677
+21,New Zealand vs India,New Zealand,Devon Conway,1,0,9,0,0,0,1,0,ODI # 4678
+21,New Zealand vs India,New Zealand,Will Young,2,17,27,3,0,62.963,1,12,ODI # 4678
+21,New Zealand vs India,New Zealand,Rachin Ravindra,3,75,87,6,1,86.207,1,30,ODI # 4678
+21,New Zealand vs India,New Zealand,Daryl Mitchell,4,130,127,9,5,102.362,1,66,ODI # 4678
+21,New Zealand vs India,New Zealand,Tom Latham,5,5,7,1,0,71.429,1,4,ODI # 4678
+21,New Zealand vs India,New Zealand,Glenn Phillips,6,23,26,0,1,88.462,1,6,ODI # 4678
+21,New Zealand vs India,New Zealand,Mark Chapman,7,6,8,0,0,75,1,0,ODI # 4678
+21,New Zealand vs India,New Zealand,Mitchell Santner,8,1,2,0,0,50,1,0,ODI # 4678
+21,New Zealand vs India,New Zealand,Matt Henry,9,0,1,0,0,0,1,0,ODI # 4678
+21,New Zealand vs India,New Zealand,Lockie Ferguson,10,1,5,0,0,20,1,0,ODI # 4678
+21,New Zealand vs India,New Zealand,Trent Boult,11,0,1,0,0,0,1,0,ODI # 4678
+21,New Zealand vs India,India,Rohit Sharma,1,46,40,4,4,115,1,40,ODI # 4678
+21,New Zealand vs India,India,Shubman Gill,2,26,31,5,0,83.9,1,20,ODI # 4678
+21,New Zealand vs India,India,Virat Kohli,3,95,104,8,2,91.3,1,44,ODI # 4678
+21,New Zealand vs India,India,Shreyas Iyer,4,33,29,6,0,113.8,1,24,ODI # 4678
+21,New Zealand vs India,India,KL Rahul,5,27,35,3,0,77.1,1,12,ODI # 4678
+21,New Zealand vs India,India,Suryakumar Yadav,6,2,4,0,0,50,1,0,ODI # 4678
+21,New Zealand vs India,India,Ravindra Jadeja,7,39,44,3,1,88.6,0,18,ODI # 4678
+21,New Zealand vs India,India,Mohammed Shami,8,1,1,0,0,100,0,0,ODI # 4678
+22,Pakistan vs Afghanistan,Pakistan,Abdullah Shafique,1,58,75,5,2,77.333,1,32,ODI # 4679
+22,Pakistan vs Afghanistan,Pakistan,Imam-ul-Haq,2,17,22,2,0,77.273,1,8,ODI # 4679
+22,Pakistan vs Afghanistan,Pakistan,Babar Azam,3,74,92,4,1,80.435,1,22,ODI # 4679
+22,Pakistan vs Afghanistan,Pakistan,Mohammad Rizwan,4,8,10,0,1,80,1,6,ODI # 4679
+22,Pakistan vs Afghanistan,Pakistan,Saud Shakeel,5,25,34,3,0,73.529,1,12,ODI # 4679
+22,Pakistan vs Afghanistan,Pakistan,Shadab Khan,6,40,38,1,1,105.263,1,10,ODI # 4679
+22,Pakistan vs Afghanistan,Pakistan,Iftikhar Ahmed,7,40,27,2,4,148.148,1,32,ODI # 4679
+22,Pakistan vs Afghanistan,Pakistan,Shaheen Afridi,8,3,3,0,0,100,0,0,ODI # 4679
+22,Pakistan vs Afghanistan,Afghanistan,Rahmanullah Gurbaz,1,65,53,9,1,122.642,1,42,ODI # 4679
+22,Pakistan vs Afghanistan,Afghanistan,Ibrahim Zadran,2,87,113,10,0,76.991,1,40,ODI # 4679
+22,Pakistan vs Afghanistan,Afghanistan,Rahmat Shah,3,77,84,5,2,91.667,0,32,ODI # 4679
+22,Pakistan vs Afghanistan,Afghanistan,Hashmatullah Shahidi,4,48,45,4,0,106.667,0,16,ODI # 4679
+23,South Africa vs Bangladesh,South Africa,Quinton de Kock,1,174,140,15,7,124.286,1,102,ODI # 4680
+23,South Africa vs Bangladesh,South Africa,Reeza Hendricks,2,12,19,1,0,63.158,1,4,ODI # 4680
+23,South Africa vs Bangladesh,South Africa,Rassie van der Dussen,3,1,7,0,0,14.286,1,0,ODI # 4680
+23,South Africa vs Bangladesh,South Africa,Aiden Markram,4,60,69,7,0,86.957,1,28,ODI # 4680
+23,South Africa vs Bangladesh,South Africa,Heinrich Klaasen,5,90,49,2,8,183.673,1,56,ODI # 4680
+23,South Africa vs Bangladesh,South Africa,David Miller,6,34,15,1,4,226.667,0,28,ODI # 4680
+23,South Africa vs Bangladesh,South Africa,Marco Jansen,7,1,1,0,0,100,0,0,ODI # 4680
+23,South Africa vs Bangladesh,Bangladesh,Tanzid Hasan,1,12,17,1,0,70.588,1,4,ODI # 4680
+23,South Africa vs Bangladesh,Bangladesh,Litton Das,2,22,44,3,1,50,1,18,ODI # 4680
+23,South Africa vs Bangladesh,Bangladesh,Najmul Hossain Shanto,3,0,1,0,0,0,1,0,ODI # 4680
+23,South Africa vs Bangladesh,Bangladesh,Shakib Al Hasan,4,1,4,0,0,25,1,0,ODI # 4680
+23,South Africa vs Bangladesh,Bangladesh,Mushfiqur Rahim,5,8,17,1,0,47.059,1,4,ODI # 4680
+23,South Africa vs Bangladesh,Bangladesh,Mahmudullah,6,111,111,11,4,100,1,68,ODI # 4680
+23,South Africa vs Bangladesh,Bangladesh,Mehidy Hasan Miraz,7,11,19,1,0,57.895,1,4,ODI # 4680
+23,South Africa vs Bangladesh,Bangladesh,Nasum Ahmed,8,19,19,3,0,100,1,12,ODI # 4680
+23,South Africa vs Bangladesh,Bangladesh,Hasan Mahmud,9,15,25,2,0,60,1,8,ODI # 4680
+23,South Africa vs Bangladesh,Bangladesh,Mustafizur Rahman,10,11,21,2,0,52.381,1,8,ODI # 4680
+23,South Africa vs Bangladesh,Bangladesh,Shoriful Islam,11,6,4,1,0,150,0,4,ODI # 4680
+24,Australia vs Netherlands,Australia,Mitchell Marsh,1,9,15,2,0,60,1,8,ODI # 4681
+24,Australia vs Netherlands,Australia,David Warner,2,104,93,11,3,111.828,1,62,ODI # 4681
+24,Australia vs Netherlands,Australia,Steve Smith,3,71,68,9,1,104.412,1,42,ODI # 4681
+24,Australia vs Netherlands,Australia,Marnus Labuschagne,4,62,47,7,2,131.915,1,40,ODI # 4681
+24,Australia vs Netherlands,Australia,Josh Inglis,5,14,12,1,1,116.667,1,10,ODI # 4681
+24,Australia vs Netherlands,Australia,Glenn Maxwell,6,106,44,9,8,240.909,1,84,ODI # 4681
+24,Australia vs Netherlands,Australia,Cameron Green,7,8,11,1,0,72.727,1,4,ODI # 4681
+24,Australia vs Netherlands,Australia,Pat Cummins,8,12,9,2,0,133.333,0,8,ODI # 4681
+24,Australia vs Netherlands,Australia,Mitchell Starc,9,0,1,0,0,0,1,0,ODI # 4681
+24,Australia vs Netherlands,Australia,Adam Zampa,10,1,1,0,0,100,0,0,ODI # 4681
+24,Australia vs Netherlands,Netherlands,Vikramjit Singh,1,25,25,6,0,100,1,24,ODI # 4681
+24,Australia vs Netherlands,Netherlands,Max O'Dowd,2,6,9,1,0,66.667,1,4,ODI # 4681
+24,Australia vs Netherlands,Netherlands,Colin Ackermann,3,10,11,2,0,90.909,1,8,ODI # 4681
+24,Australia vs Netherlands,Netherlands,Sybrand Engelbrecht,4,11,21,1,0,52.381,1,4,ODI # 4681
+24,Australia vs Netherlands,Netherlands,Bas de Leede,5,4,7,1,0,57.143,1,4,ODI # 4681
+24,Australia vs Netherlands,Netherlands,Scott Edwards,6,12,22,0,0,54.545,0,0,ODI # 4681
+24,Australia vs Netherlands,Netherlands,Teja Nidamanuru,7,14,18,2,0,77.778,1,8,ODI # 4681
+24,Australia vs Netherlands,Netherlands,Logan van Beek,8,0,3,0,0,0,1,0,ODI # 4681
+24,Australia vs Netherlands,Netherlands,Roelof van der Merwe,9,0,1,0,0,0,1,0,ODI # 4681
+24,Australia vs Netherlands,Netherlands,Aryan Dutt,10,1,8,0,0,12.5,1,0,ODI # 4681
+24,Australia vs Netherlands,Netherlands,Paul van Meekeren,11,0,1,0,0,0,1,0,ODI # 4681
+25,England vs Sri Lanka,England,Jonny Bairstow,1,30,31,3,0,96.774,1,12,ODI # 4682
+25,England vs Sri Lanka,England,Dawid Malan,2,28,25,6,0,112,1,24,ODI # 4682
+25,England vs Sri Lanka,England,Joe Root,3,3,10,0,0,30,1,0,ODI # 4682
+25,England vs Sri Lanka,England,Ben Stokes,4,43,73,6,0,58.904,1,24,ODI # 4682
+25,England vs Sri Lanka,England,Jos Buttler,5,8,6,1,0,133.333,1,4,ODI # 4682
+25,England vs Sri Lanka,England,Liam Livingstone,6,1,6,0,0,16.667,1,0,ODI # 4682
+25,England vs Sri Lanka,England,Moeen Ali,7,15,15,1,0,100,1,4,ODI # 4682
+25,England vs Sri Lanka,England,Chris Woakes,8,0,4,0,0,0,1,0,ODI # 4682
+25,England vs Sri Lanka,England,David Willey,9,14,17,1,1,82.353,0,10,ODI # 4682
+25,England vs Sri Lanka,England,Adil Rashid,10,2,7,0,0,28.571,1,0,ODI # 4682
+25,England vs Sri Lanka,England,Mark Wood,11,5,6,1,0,83.333,1,4,ODI # 4682
+25,England vs Sri Lanka,Sri Lanka,Pathum Nissanka,1,77,83,7,2,92.771,0,40,ODI # 4682
+25,England vs Sri Lanka,Sri Lanka,Kusal Janith Perera,2,4,5,1,0,80,1,4,ODI # 4682
+25,England vs Sri Lanka,Sri Lanka,Kusal Mendis,3,11,12,2,0,91.667,1,8,ODI # 4682
+25,England vs Sri Lanka,Sri Lanka,Sadeera Samarawickrama,4,65,54,7,1,120.37,0,34,ODI # 4682
+26,Pakistan vs South Africa,Pakistan,Abdullah Shafique,1,9,17,1,0,52.9,1,4,ODI # 4683
+26,Pakistan vs South Africa,Pakistan,Imam-ul-Haq,2,12,18,2,0,66.7,1,8,ODI # 4683
+26,Pakistan vs South Africa,Pakistan,Babar Azam,3,50,65,4,1,76.9,1,22,ODI # 4683
+26,Pakistan vs South Africa,Pakistan,Mohammad Rizwan,4,31,27,4,1,114.8,1,22,ODI # 4683
+26,Pakistan vs South Africa,Pakistan,Iftikhar Ahmed,5,21,31,1,1,67.7,1,10,ODI # 4683
+26,Pakistan vs South Africa,Pakistan,Saud Shakeel,6,52,52,7,0,100,1,28,ODI # 4683
+26,Pakistan vs South Africa,Pakistan,Shadab Khan,7,43,36,3,2,119.4,1,24,ODI # 4683
+26,Pakistan vs South Africa,Pakistan,Mohammad Nawaz,8,24,24,1,2,100,1,16,ODI # 4683
+26,Pakistan vs South Africa,Pakistan,Shaheen Afridi,9,2,4,0,0,50,1,0,ODI # 4683
+26,Pakistan vs South Africa,Pakistan,Mohammad Wasim Jr,10,7,9,0,1,77.8,1,6,ODI # 4683
+26,Pakistan vs South Africa,Pakistan,Haris Rauf,11,0,1,0,0,0,0,0,ODI # 4683
+26,Pakistan vs South Africa,South Africa,Temba Bavuma,1,28,27,4,1,103.7,1,22,ODI # 4683
+26,Pakistan vs South Africa,South Africa,Quinton de Kock,2,24,14,5,0,171.4,1,20,ODI # 4683
+26,Pakistan vs South Africa,South Africa,Rassie van der Dussen,3,21,39,0,0,53.8,1,0,ODI # 4683
+26,Pakistan vs South Africa,South Africa,Aiden Markram,4,91,93,7,3,97.8,1,46,ODI # 4683
+26,Pakistan vs South Africa,South Africa,Heinrich Klaasen,5,12,10,0,1,120,1,6,ODI # 4683
+26,Pakistan vs South Africa,South Africa,David Miller,6,29,33,2,2,87.9,1,20,ODI # 4683
+26,Pakistan vs South Africa,South Africa,Marco Jansen,7,20,14,2,1,142.9,1,14,ODI # 4683
+26,Pakistan vs South Africa,South Africa,Gerald Coetzee,8,10,13,0,0,76.9,1,0,ODI # 4683
+26,Pakistan vs South Africa,South Africa,Keshav Maharaj,9,7,21,1,0,33.3,0,4,ODI # 4683
+26,Pakistan vs South Africa,South Africa,Lungi Ngidi,10,4,14,0,0,28.6,1,0,ODI # 4683
+26,Pakistan vs South Africa,South Africa,Tabraiz Shamsi,11,4,6,0,0,66.7,0,0,ODI # 4683
+27,Australia vs New Zealand,Australia,David Warner,1,81,65,5,6,124.6,1,56,ODI # 4684
+27,Australia vs New Zealand,Australia,Travis Head,2,109,67,10,7,162.7,1,82,ODI # 4684
+27,Australia vs New Zealand,Australia,Mitchell Marsh,3,36,51,2,0,70.6,1,8,ODI # 4684
+27,Australia vs New Zealand,Australia,Steve Smith,4,18,17,2,0,105.9,1,8,ODI # 4684
+27,Australia vs New Zealand,Australia,Marnus Labuschagne,5,18,26,2,0,69.2,1,8,ODI # 4684
+27,Australia vs New Zealand,Australia,Glenn Maxwell,6,41,24,5,2,170.8,1,32,ODI # 4684
+27,Australia vs New Zealand,Australia,Josh Inglis,7,38,28,4,1,135.7,1,22,ODI # 4684
+27,Australia vs New Zealand,Australia,Pat Cummins,8,37,14,2,4,264.3,1,32,ODI # 4684
+27,Australia vs New Zealand,Australia,Mitchell Starc,9,1,3,0,0,33.3,1,0,ODI # 4684
+27,Australia vs New Zealand,Australia,Adam Zampa,10,0,3,0,0,0,1,0,ODI # 4684
+27,Australia vs New Zealand,Australia,Josh Hazlewood,11,0,0,0,0,0,0,0,ODI # 4684
+27,Australia vs New Zealand,New Zealand,Devon Conway,1,28,17,6,0,164.7,1,24,ODI # 4684
+27,Australia vs New Zealand,New Zealand,Will Young,2,32,37,4,1,86.5,1,22,ODI # 4684
+27,Australia vs New Zealand,New Zealand,Rachin Ravindra,3,116,89,9,5,130.3,1,66,ODI # 4684
+27,Australia vs New Zealand,New Zealand,Daryl Mitchell,4,54,51,6,1,105.9,1,30,ODI # 4684
+27,Australia vs New Zealand,New Zealand,Tom Latham,5,21,22,2,0,95.5,1,8,ODI # 4684
+27,Australia vs New Zealand,New Zealand,Glenn Phillips,6,12,16,1,0,75,1,4,ODI # 4684
+27,Australia vs New Zealand,New Zealand,Jimmy Neesham,7,58,39,3,3,148.7,1,30,ODI # 4684
+27,Australia vs New Zealand,New Zealand,Mitchell Santner,8,17,12,1,1,141.7,1,10,ODI # 4684
+27,Australia vs New Zealand,New Zealand,Matt Henry,9,9,8,1,0,112.5,1,4,ODI # 4684
+27,Australia vs New Zealand,New Zealand,Trent Boult,10,10,8,0,1,125,0,6,ODI # 4684
+27,Australia vs New Zealand,New Zealand,Lockie Ferguson,11,0,1,0,0,0,0,0,ODI # 4684
+28,Netherlands vs Bangladesh,Netherlands,Vikramjit Singh,1,3,9,0,0,33.3,1,0,ODI # 4685
+28,Netherlands vs Bangladesh,Netherlands,Max O'Dowd,2,0,3,0,0,0,1,0,ODI # 4685
+28,Netherlands vs Bangladesh,Netherlands,Wesley Barresi,3,41,41,8,0,100,1,32,ODI # 4685
+28,Netherlands vs Bangladesh,Netherlands,Colin Ackermann,4,15,33,1,0,45.5,1,4,ODI # 4685
+28,Netherlands vs Bangladesh,Netherlands,Scott Edwards,5,68,89,6,0,76.4,1,24,ODI # 4685
+28,Netherlands vs Bangladesh,Netherlands,Bas de Leede,6,17,32,2,0,53.1,1,8,ODI # 4685
+28,Netherlands vs Bangladesh,Netherlands,Sybrand Engelbrecht,7,35,61,3,0,57.4,1,12,ODI # 4685
+28,Netherlands vs Bangladesh,Netherlands,Logan van Beek,8,23,16,2,1,143.8,0,14,ODI # 4685
+28,Netherlands vs Bangladesh,Netherlands,Shariz Ahmad,9,6,8,0,0,75,1,0,ODI # 4685
+28,Netherlands vs Bangladesh,Netherlands,Aryan Dutt,10,9,6,0,1,150,1,6,ODI # 4685
+28,Netherlands vs Bangladesh,Netherlands,Paul van Meekeren,11,0,2,0,0,0,1,0,ODI # 4685
+28,Netherlands vs Bangladesh,Bangladesh,Litton Das,1,3,12,0,0,25,1,0,ODI # 4685
+28,Netherlands vs Bangladesh,Bangladesh,Tanzid Hasan,2,15,16,3,0,93.8,1,12,ODI # 4685
+28,Netherlands vs Bangladesh,Bangladesh,Mehidy Hasan Miraz,3,35,40,5,1,87.5,1,26,ODI # 4685
+28,Netherlands vs Bangladesh,Bangladesh,Najmul Hossain Shanto,4,9,18,2,0,50,1,8,ODI # 4685
+28,Netherlands vs Bangladesh,Bangladesh,Shakib Al Hasan,5,5,14,0,0,35.7,1,0,ODI # 4685
+28,Netherlands vs Bangladesh,Bangladesh,Mushfiqur Rahim,6,1,5,0,0,20,1,0,ODI # 4685
+28,Netherlands vs Bangladesh,Bangladesh,Mahmudullah,7,20,41,2,0,48.8,1,8,ODI # 4685
+28,Netherlands vs Bangladesh,Bangladesh,Mahedi Hasan,8,17,38,1,0,44.7,1,4,ODI # 4685
+28,Netherlands vs Bangladesh,Bangladesh,Taskin Ahmed,9,11,35,1,0,31.4,1,4,ODI # 4685
+28,Netherlands vs Bangladesh,Bangladesh,Mustafizur Rahman,10,20,35,2,1,57.1,1,14,ODI # 4685
+28,Netherlands vs Bangladesh,Bangladesh,Shoriful Islam,11,0,0,0,0,0,0,0,ODI # 4685
+29,India vs England,India,Rohit Sharma,1,87,101,10,3,86.1,1,58,ODI # 4686
+29,India vs England,India,Shubman Gill,2,9,13,1,0,69.2,1,4,ODI # 4686
+29,India vs England,India,Virat Kohli,3,0,9,0,0,0,1,0,ODI # 4686
+29,India vs England,India,Shreyas Iyer,4,4,16,0,0,25,1,0,ODI # 4686
+29,India vs England,India,KL Rahul,5,39,58,3,0,67.2,1,12,ODI # 4686
+29,India vs England,India,Suryakumar Yadav,6,49,47,4,1,104.3,1,22,ODI # 4686
+29,India vs England,India,Ravindra Jadeja,7,8,13,0,0,61.5,1,0,ODI # 4686
+29,India vs England,India,Mohammed Shami,8,1,5,0,0,20,1,0,ODI # 4686
+29,India vs England,India,Jasprit Bumrah,9,16,25,1,0,64,1,4,ODI # 4686
+29,India vs England,India,Kuldeep Yadav,10,9,13,1,0,69.2,0,4,ODI # 4686
+29,India vs England,England,Jonny Bairstow,1,14,23,2,0,60.9,1,8,ODI # 4686
+29,India vs England,England,Dawid Malan,2,16,17,2,1,94.1,1,14,ODI # 4686
+29,India vs England,England,Joe Root,3,0,1,0,0,0,1,0,ODI # 4686
+29,India vs England,England,Ben Stokes,4,0,10,0,0,0,1,0,ODI # 4686
+29,India vs England,England,Jos Buttler,5,10,23,1,0,43.5,1,4,ODI # 4686
+29,India vs England,England,Moeen Ali,6,15,31,0,0,48.4,1,0,ODI # 4686
+29,India vs England,England,Liam Livingstone,7,27,46,2,0,58.7,1,8,ODI # 4686
+29,India vs England,England,Chris Woakes,8,10,20,1,0,50,1,4,ODI # 4686
+29,India vs England,England,David Willey,9,16,17,0,2,94.1,0,12,ODI # 4686
+29,India vs England,England,Adil Rashid,10,13,20,2,0,65,1,8,ODI # 4686
+29,India vs England,England,Mark Wood,11,0,0,0,0,0,1,0,ODI # 4686
+30,Sri Lanka vs Afghanistan,Sri Lanka,Pathum Nissanka,1,46,60,5,0,76.667,1,20,ODI # 4687
+30,Sri Lanka vs Afghanistan,Sri Lanka,Dimuth Karunaratne,2,15,21,1,0,71.429,1,4,ODI # 4687
+30,Sri Lanka vs Afghanistan,Sri Lanka,Kusal Mendis,3,39,50,3,0,78,1,12,ODI # 4687
+30,Sri Lanka vs Afghanistan,Sri Lanka,Sadeera Samarawickrama,4,36,40,3,0,90,1,12,ODI # 4687
+30,Sri Lanka vs Afghanistan,Sri Lanka,Charith Asalanka,5,22,28,2,0,78.571,1,8,ODI # 4687
+30,Sri Lanka vs Afghanistan,Sri Lanka,Dhananjaya de Silva,6,14,26,1,0,53.846,1,4,ODI # 4687
+30,Sri Lanka vs Afghanistan,Sri Lanka,Angelo Mathews,7,23,26,1,1,88.462,1,10,ODI # 4687
+30,Sri Lanka vs Afghanistan,Sri Lanka,Dushmantha Chameera,8,1,4,0,0,25,1,0,ODI # 4687
+30,Sri Lanka vs Afghanistan,Sri Lanka,Maheesh Theekshana,9,29,31,3,1,93.548,1,18,ODI # 4687
+30,Sri Lanka vs Afghanistan,Sri Lanka,Kasun Rajitha,10,5,7,0,0,71.429,1,0,ODI # 4687
+30,Sri Lanka vs Afghanistan,Sri Lanka,Dilshan Madushanka,11,0,4,0,0,0,0,0,ODI # 4687
+30,Sri Lanka vs Afghanistan,Afghanistan,Rahmanullah Gurbaz,1,0,4,0,0,0,1,0,ODI # 4687
+30,Sri Lanka vs Afghanistan,Afghanistan,Ibrahim Zadran,2,39,57,4,1,68.421,1,22,ODI # 4687
+30,Sri Lanka vs Afghanistan,Afghanistan,Rahmat Shah,3,62,74,7,0,83.784,1,28,ODI # 4687
+30,Sri Lanka vs Afghanistan,Afghanistan,Hashmatullah Shahidi,4,58,74,2,1,78.378,0,14,ODI # 4687
+30,Sri Lanka vs Afghanistan,Afghanistan,Azmatullah Omarzai,5,73,63,6,3,115.873,0,42,ODI # 4687
+31,Bangladesh vs Pakistan,Bangladesh,Tanzid Hasan,1,0,5,0,0,0,1,0,ODI # 4688
+31,Bangladesh vs Pakistan,Bangladesh,Litton Das,2,45,64,6,0,70.313,1,24,ODI # 4688
+31,Bangladesh vs Pakistan,Bangladesh,Najmul Hossain Shanto,3,4,3,1,0,133.333,1,4,ODI # 4688
+31,Bangladesh vs Pakistan,Bangladesh,Mushfiqur Rahim,4,5,8,1,0,62.5,1,4,ODI # 4688
+31,Bangladesh vs Pakistan,Bangladesh,Mahmudullah,5,56,70,6,1,80,1,30,ODI # 4688
+31,Bangladesh vs Pakistan,Bangladesh,Shakib Al Hasan,6,43,64,4,0,67.188,1,16,ODI # 4688
+31,Bangladesh vs Pakistan,Bangladesh,Towhid Hridoy,7,7,3,0,1,233.333,1,6,ODI # 4688
+31,Bangladesh vs Pakistan,Bangladesh,Mehidy Hasan Miraz,8,25,30,1,1,83.333,1,10,ODI # 4688
+31,Bangladesh vs Pakistan,Bangladesh,Taskin Ahmed,9,6,13,0,0,46.154,1,0,ODI # 4688
+31,Bangladesh vs Pakistan,Bangladesh,Mustafizur Rahman,10,3,7,0,0,42.857,1,0,ODI # 4688
+31,Bangladesh vs Pakistan,Bangladesh,Shoriful Islam,11,1,4,0,0,25,0,0,ODI # 4688
+31,Bangladesh vs Pakistan,Pakistan,Abdullah Shafique,1,68,69,9,2,98.551,1,48,ODI # 4688
+31,Bangladesh vs Pakistan,Pakistan,Fakhar Zaman,2,81,74,3,7,109.459,1,54,ODI # 4688
+31,Bangladesh vs Pakistan,Pakistan,Babar Azam,3,9,16,1,0,56.25,1,4,ODI # 4688
+31,Bangladesh vs Pakistan,Pakistan,Mohammad Rizwan,4,26,21,4,0,123.81,0,16,ODI # 4688
+31,Bangladesh vs Pakistan,Pakistan,Iftikhar Ahmed,5,17,15,2,0,113.333,0,8,ODI # 4688
+32,South Africa vs New Zealand,South Africa,Quinton de Kock,1,114,116,10,3,98.276,1,58,ODI # 4689
+32,South Africa vs New Zealand,South Africa,Temba Bavuma,2,24,28,4,1,85.714,1,22,ODI # 4689
+32,South Africa vs New Zealand,South Africa,Rassie van der Dussen,3,133,118,9,5,112.712,1,66,ODI # 4689
+32,South Africa vs New Zealand,South Africa,David Miller,4,53,30,2,4,176.667,1,32,ODI # 4689
+32,South Africa vs New Zealand,South Africa,Heinrich Klaasen,5,15,7,1,1,214.286,1,10,ODI # 4689
+32,South Africa vs New Zealand,South Africa,Aiden Markram,6,6,1,0,1,600,1,6,ODI # 4689
+32,South Africa vs New Zealand,New Zealand,Devon Conway,1,2,6,0,0,33.333,1,0,ODI # 4689
+32,South Africa vs New Zealand,New Zealand,Will Young,2,33,37,5,0,89.189,1,20,ODI # 4689
+32,South Africa vs New Zealand,New Zealand,Rachin Ravindra,3,9,16,1,0,56.25,1,4,ODI # 4689
+32,South Africa vs New Zealand,New Zealand,Daryl Mitchell,4,24,30,4,0,80,1,16,ODI # 4689
+32,South Africa vs New Zealand,New Zealand,Tom Latham,5,4,15,0,0,26.667,1,0,ODI # 4689
+32,South Africa vs New Zealand,New Zealand,Glenn Phillips,6,60,50,4,4,120,1,40,ODI # 4689
+32,South Africa vs New Zealand,New Zealand,Mitchell Santner,7,7,18,1,0,38.889,1,4,ODI # 4689
+32,South Africa vs New Zealand,New Zealand,Tim Southee,8,7,11,1,0,63.636,1,4,ODI # 4689
+32,South Africa vs New Zealand,New Zealand,Jimmy Neesham,9,0,8,0,0,0,1,0,ODI # 4689
+32,South Africa vs New Zealand,New Zealand,Trent Boult,10,9,14,1,0,64.286,1,4,ODI # 4689
+32,South Africa vs New Zealand,New Zealand,Matt Henry,11,0,9,0,0,0,0,0,ODI # 4689
+33,India vs Sri Lanka,India,Rohit Sharma,1,4,2,1,0,200,1,4,ODI # 4690
+33,India vs Sri Lanka,India,Shubman Gill,2,92,92,11,2,100,1,56,ODI # 4690
+33,India vs Sri Lanka,India,Virat Kohli,3,88,94,11,0,93.6,1,44,ODI # 4690
+33,India vs Sri Lanka,India,Shreyas Iyer,4,82,56,3,6,146.4,1,48,ODI # 4690
+33,India vs Sri Lanka,India,KL Rahul,5,21,19,2,0,110.5,1,8,ODI # 4690
+33,India vs Sri Lanka,India,Suryakumar Yadav,6,12,9,2,0,133.3,1,8,ODI # 4690
+33,India vs Sri Lanka,India,Ravindra Jadeja,7,35,24,1,1,145.8,1,10,ODI # 4690
+33,India vs Sri Lanka,India,Mohammed Shami,8,2,4,0,0,50,1,0,ODI # 4690
+33,India vs Sri Lanka,India,Jasprit Bumrah,9,1,1,0,0,100,0,0,ODI # 4690
+33,India vs Sri Lanka,Sri Lanka,Pathum Nissanka,1,0,1,0,0,0,1,0,ODI # 4690
+33,India vs Sri Lanka,Sri Lanka,Dimuth Karunaratne,2,0,1,0,0,0,1,0,ODI # 4690
+33,India vs Sri Lanka,Sri Lanka,Kusal Mendis,3,1,10,0,0,10,1,0,ODI # 4690
+33,India vs Sri Lanka,Sri Lanka,Sadeera Samarawickrama,4,0,4,0,0,0,1,0,ODI # 4690
+33,India vs Sri Lanka,Sri Lanka,Charith Asalanka,5,1,24,0,0,4.2,1,0,ODI # 4690
+33,India vs Sri Lanka,Sri Lanka,Angelo Mathews,6,12,25,1,0,48,1,4,ODI # 4690
+33,India vs Sri Lanka,Sri Lanka,Dushan Hemantha,7,0,1,0,0,0,1,0,ODI # 4690
+33,India vs Sri Lanka,Sri Lanka,Dushmantha Chameera,8,0,6,0,0,0,1,0,ODI # 4690
+33,India vs Sri Lanka,Sri Lanka,Maheesh Theekshana,9,12,23,2,0,52.2,0,8,ODI # 4690
+33,India vs Sri Lanka,Sri Lanka,Kasun Rajitha,10,14,17,2,0,82.4,1,8,ODI # 4690
+33,India vs Sri Lanka,Sri Lanka,Dilshan Madushanka,11,5,6,1,0,83.3,1,4,ODI # 4690
+34,Netherlands vs Afghanistan,Netherlands,Wesley Barresi,1,1,4,0,0,25,1,0,ODI # 4691
+34,Netherlands vs Afghanistan,Netherlands,Max O'Dowd,2,42,40,9,0,105,1,36,ODI # 4691
+34,Netherlands vs Afghanistan,Netherlands,Colin Ackermann,3,29,35,4,0,82.857,1,16,ODI # 4691
+34,Netherlands vs Afghanistan,Netherlands,Sybrand Engelbrecht,4,58,86,6,0,67.442,1,24,ODI # 4691
+34,Netherlands vs Afghanistan,Netherlands,Scott Edwards,5,0,1,0,0,0,1,0,ODI # 4691
+34,Netherlands vs Afghanistan,Netherlands,Bas de Leede,6,3,6,0,0,50,1,0,ODI # 4691
+34,Netherlands vs Afghanistan,Netherlands,Saqib Zulfiqar,7,3,15,0,0,20,1,0,ODI # 4691
+34,Netherlands vs Afghanistan,Netherlands,Logan van Beek,8,2,13,0,0,15.385,1,0,ODI # 4691
+34,Netherlands vs Afghanistan,Netherlands,Roelof van der Merwe,9,11,33,0,0,33.333,1,0,ODI # 4691
+34,Netherlands vs Afghanistan,Netherlands,Aryan Dutt,10,10,22,0,0,45.455,0,0,ODI # 4691
+34,Netherlands vs Afghanistan,Netherlands,Paul van Meekeren,11,4,24,0,0,16.667,1,0,ODI # 4691
+34,Netherlands vs Afghanistan,Afghanistan,Rahmanullah Gurbaz,1,10,11,2,0,90.909,1,8,ODI # 4691
+34,Netherlands vs Afghanistan,Afghanistan,Ibrahim Zadran,2,20,34,2,0,58.824,1,8,ODI # 4691
+34,Netherlands vs Afghanistan,Afghanistan,Rahmat Shah,3,52,54,8,0,96.296,1,32,ODI # 4691
+34,Netherlands vs Afghanistan,Afghanistan,Hashmatullah Shahidi,4,56,64,6,0,87.5,0,24,ODI # 4691
+34,Netherlands vs Afghanistan,Afghanistan,Azmatullah Omarzai,5,31,28,3,0,110.714,0,12,ODI # 4691
+35,New Zealand vs Pakistan,New Zealand,Devon Conway,1,35,39,6,0,89.7,1,24,ODI # 4692
+35,New Zealand vs Pakistan,New Zealand,Rachin Ravindra,2,108,94,15,1,114.9,1,66,ODI # 4692
+35,New Zealand vs Pakistan,New Zealand,Kane Williamson,3,95,79,10,2,120.3,1,52,ODI # 4692
+35,New Zealand vs Pakistan,New Zealand,Daryl Mitchell,4,29,18,4,1,161.1,1,22,ODI # 4692
+35,New Zealand vs Pakistan,New Zealand,Mark Chapman,5,39,27,7,0,144.4,1,28,ODI # 4692
+35,New Zealand vs Pakistan,New Zealand,Glenn Phillips,6,41,25,4,2,164,1,28,ODI # 4692
+35,New Zealand vs Pakistan,New Zealand,Mitchell Santner,7,26,17,0,2,152.9,0,12,ODI # 4692
+35,New Zealand vs Pakistan,New Zealand,Tom Latham,8,2,2,0,0,100,0,0,ODI # 4692
+35,New Zealand vs Pakistan,Pakistan,Abdullah Shafique,1,4,9,1,0,44.4,1,4,ODI # 4692
+35,New Zealand vs Pakistan,Pakistan,Fakhar Zaman,2,126,81,8,11,155.6,0,98,ODI # 4692
+35,New Zealand vs Pakistan,Pakistan,Babar Azam,3,66,63,6,2,104.8,0,36,ODI # 4692
+36,Australia vs England,Australia,Travis Head,1,11,10,1,0,110,1,4,ODI # 4693
+36,Australia vs England,Australia,David Warner,2,15,16,1,1,93.75,1,10,ODI # 4693
+36,Australia vs England,Australia,Steve Smith,3,44,52,3,0,84.615,1,12,ODI # 4693
+36,Australia vs England,Australia,Marnus Labuschagne,4,71,83,7,0,85.542,1,28,ODI # 4693
+36,Australia vs England,Australia,Josh Inglis,5,3,6,0,0,50,1,0,ODI # 4693
+36,Australia vs England,Australia,Cameron Green,6,47,52,5,0,90.385,1,20,ODI # 4693
+36,Australia vs England,Australia,Marcus Stoinis,7,35,32,3,2,109.375,1,24,ODI # 4693
+36,Australia vs England,Australia,Pat Cummins,8,10,13,1,0,76.923,1,4,ODI # 4693
+36,Australia vs England,Australia,Mitchell Starc,9,10,13,0,0,76.923,1,0,ODI # 4693
+36,Australia vs England,Australia,Adam Zampa,10,29,19,4,0,152.632,1,16,ODI # 4693
+36,Australia vs England,Australia,Josh Hazlewood,11,1,1,0,0,100,0,0,ODI # 4693
+36,Australia vs England,England,Jonny Bairstow,1,0,1,0,0,0,1,0,ODI # 4693
+36,Australia vs England,England,Dawid Malan,2,50,64,4,1,78.125,1,22,ODI # 4693
+36,Australia vs England,England,Joe Root,3,13,17,2,0,76.471,1,8,ODI # 4693
+36,Australia vs England,England,Ben Stokes,4,64,90,2,3,71.111,1,26,ODI # 4693
+36,Australia vs England,England,Jos Buttler,5,1,7,0,0,14.286,1,0,ODI # 4693
+36,Australia vs England,England,Moeen Ali,6,42,43,6,0,97.674,1,24,ODI # 4693
+36,Australia vs England,England,Liam Livingstone,7,2,5,0,0,40,1,0,ODI # 4693
+36,Australia vs England,England,Chris Woakes,8,32,33,4,1,96.97,1,22,ODI # 4693
+36,Australia vs England,England,David Willey,9,15,14,3,0,107.143,1,12,ODI # 4693
+36,Australia vs England,England,Adil Rashid,10,20,15,1,1,133.333,1,10,ODI # 4693
+36,Australia vs England,England,Mark Wood,11,0,0,0,0,0,0,0,ODI # 4693
+37,India vs South Africa,India,Rohit Sharma,1,40,24,6,2,166.7,1,36,ODI # 4694
+37,India vs South Africa,India,Shubman Gill,2,23,24,4,1,95.8,1,22,ODI # 4694
+37,India vs South Africa,India,Virat Kohli,3,101,121,10,0,83.5,0,40,ODI # 4694
+37,India vs South Africa,India,Shreyas Iyer,4,77,87,7,2,88.5,1,40,ODI # 4694
+37,India vs South Africa,India,KL Rahul,5,8,17,0,0,47.1,1,0,ODI # 4694
+37,India vs South Africa,India,Suryakumar Yadav,6,22,14,5,0,157.1,1,20,ODI # 4694
+37,India vs South Africa,India,Ravindra Jadeja,7,29,15,3,1,193.3,0,18,ODI # 4694
+37,India vs South Africa,South Africa,Quinton de Kock,1,5,10,1,0,50,1,4,ODI # 4694
+37,India vs South Africa,South Africa,Temba Bavuma,2,11,19,1,0,57.9,1,4,ODI # 4694
+37,India vs South Africa,South Africa,Rassie van der Dussen,3,13,32,1,0,40.6,1,4,ODI # 4694
+37,India vs South Africa,South Africa,Aiden Markram,4,9,6,2,0,150,1,8,ODI # 4694
+37,India vs South Africa,South Africa,Heinrich Klaasen,5,1,11,0,0,9.1,1,0,ODI # 4694
+37,India vs South Africa,South Africa,David Miller,6,11,11,2,0,100,1,8,ODI # 4694
+37,India vs South Africa,South Africa,Marco Jansen,7,14,30,1,0,46.7,1,4,ODI # 4694
+37,India vs South Africa,South Africa,Keshav Maharaj,8,7,11,1,0,63.6,1,4,ODI # 4694
+37,India vs South Africa,South Africa,Kagiso Rabada,9,6,26,0,0,23.1,1,0,ODI # 4694
+37,India vs South Africa,South Africa,Lungi Ngidi,10,0,3,0,0,0,1,0,ODI # 4694
+37,India vs South Africa,South Africa,Tabraiz Shamsi,11,4,4,1,0,100,0,4,ODI # 4694
+38,Sri Lanka vs Bangladesh,Sri Lanka,Pathum Nissanka,1,41,36,8,0,113.9,1,32,ODI # 4695
+38,Sri Lanka vs Bangladesh,Sri Lanka,Kusal Janith Perera,2,4,5,1,0,80,1,4,ODI # 4695
+38,Sri Lanka vs Bangladesh,Sri Lanka,Kusal Mendis,3,19,30,1,1,63.3,1,10,ODI # 4695
+38,Sri Lanka vs Bangladesh,Sri Lanka,Sadeera Samarawickrama,4,41,42,4,0,97.6,1,16,ODI # 4695
+38,Sri Lanka vs Bangladesh,Sri Lanka,Charith Asalanka,5,108,105,6,5,102.9,1,54,ODI # 4695
+38,Sri Lanka vs Bangladesh,Sri Lanka,Angelo Mathews,6,0,0,0,0,0,1,0,ODI # 4695
+38,Sri Lanka vs Bangladesh,Sri Lanka,Dhananjaya de Silva,7,34,36,4,1,94.4,1,22,ODI # 4695
+38,Sri Lanka vs Bangladesh,Sri Lanka,Maheesh Theekshana,8,21,31,3,0,67.7,1,12,ODI # 4695
+38,Sri Lanka vs Bangladesh,Sri Lanka,Dushmantha Chameera,9,4,9,0,0,44.4,1,0,ODI # 4695
+38,Sri Lanka vs Bangladesh,Sri Lanka,Kasun Rajitha,10,0,2,0,0,0,1,0,ODI # 4695
+38,Sri Lanka vs Bangladesh,Sri Lanka,Dilshan Madushanka,11,0,1,0,0,0,0,0,ODI # 4695
+38,Sri Lanka vs Bangladesh,Bangladesh,Tanzid Hasan,1,9,5,2,0,180,1,8,ODI # 4695
+38,Sri Lanka vs Bangladesh,Bangladesh,Litton Das,2,23,22,2,2,104.545,1,20,ODI # 4695
+38,Sri Lanka vs Bangladesh,Bangladesh,Najmul Hossain Shanto,3,90,101,12,0,89.109,1,48,ODI # 4695
+38,Sri Lanka vs Bangladesh,Bangladesh,Shakib Al Hasan,4,82,65,12,2,126.154,1,60,ODI # 4695
+38,Sri Lanka vs Bangladesh,Bangladesh,Mahmudullah,5,22,23,3,1,95.652,1,18,ODI # 4695
+38,Sri Lanka vs Bangladesh,Bangladesh,Mushfiqur Rahim,6,10,13,1,0,76.923,1,4,ODI # 4695
+38,Sri Lanka vs Bangladesh,Bangladesh,Towhid Hridoy,7,15,7,0,2,214.286,0,12,ODI # 4695
+38,Sri Lanka vs Bangladesh,Bangladesh,Mehidy Hasan Miraz,8,3,5,0,0,60,1,0,ODI # 4695
+38,Sri Lanka vs Bangladesh,Bangladesh,Tanzim Hasan,9,5,6,1,0,83.333,0,4,ODI # 4695
+39,Afghanistan vs Australia,Afghanistan,Rahmanullah Gurbaz,1,21,25,2,0,84,1,8,ODI # 4696
+39,Afghanistan vs Australia,Afghanistan,Ibrahim Zadran,2,129,143,8,3,90.2,0,50,ODI # 4696
+39,Afghanistan vs Australia,Afghanistan,Rahmat Shah,3,30,44,1,0,68.2,1,4,ODI # 4696
+39,Afghanistan vs Australia,Afghanistan,Hashmatullah Shahidi,4,26,43,2,0,60.5,1,8,ODI # 4696
+39,Afghanistan vs Australia,Afghanistan,Azmatullah Omarzai,5,22,18,1,2,122.2,1,16,ODI # 4696
+39,Afghanistan vs Australia,Afghanistan,Mohammad Nabi,6,12,10,0,1,120,1,6,ODI # 4696
+39,Afghanistan vs Australia,Afghanistan,Rashid Khan,7,35,18,2,3,194.4,0,26,ODI # 4696
+39,Afghanistan vs Australia,Australia,David Warner,1,18,29,3,0,62.1,1,12,ODI # 4696
+39,Afghanistan vs Australia,Australia,Travis Head,2,0,2,0,0,0,1,0,ODI # 4696
+39,Afghanistan vs Australia,Australia,Mitchell Marsh,3,24,11,2,2,218.2,1,20,ODI # 4696
+39,Afghanistan vs Australia,Australia,Marnus Labuschagne,4,14,28,2,0,50,1,8,ODI # 4696
+39,Afghanistan vs Australia,Australia,Josh Inglis,5,0,1,0,0,0,1,0,ODI # 4696
+39,Afghanistan vs Australia,Australia,Glenn Maxwell,6,201,128,21,10,157,0,144,ODI # 4696
+39,Afghanistan vs Australia,Australia,Marcus Stoinis,7,6,7,1,0,85.7,1,4,ODI # 4696
+39,Afghanistan vs Australia,Australia,Mitchell Starc,8,3,7,0,0,42.9,1,0,ODI # 4696
+39,Afghanistan vs Australia,Australia,Pat Cummins,9,12,68,1,0,17.6,0,4,ODI # 4696
+40,England vs Netherlands,England,Jonny Bairstow,1,15,17,2,0,88.235,1,8,ODI # 4697
+40,England vs Netherlands,England,Dawid Malan,2,87,74,10,2,117.568,1,52,ODI # 4697
+40,England vs Netherlands,England,Joe Root,3,28,35,1,0,80,1,4,ODI # 4697
+40,England vs Netherlands,England,Ben Stokes,4,108,84,6,6,128.571,1,60,ODI # 4697
+40,England vs Netherlands,England,Harry Brook,5,11,16,2,0,68.75,1,8,ODI # 4697
+40,England vs Netherlands,England,Jos Buttler,6,5,11,0,0,45.455,1,0,ODI # 4697
+40,England vs Netherlands,England,Moeen Ali,7,4,15,0,0,26.667,1,0,ODI # 4697
+40,England vs Netherlands,England,Chris Woakes,8,51,45,5,1,113.333,1,26,ODI # 4697
+40,England vs Netherlands,England,David Willey,9,6,2,0,1,300,1,6,ODI # 4697
+40,England vs Netherlands,England,Gus Atkinson,10,2,1,0,0,200,0,0,ODI # 4697
+40,England vs Netherlands,England,Adil Rashid,11,1,1,0,0,100,0,0,ODI # 4697
+40,England vs Netherlands,Netherlands,Wesley Barresi,1,37,62,3,1,59.677,1,18,ODI # 4697
+40,England vs Netherlands,Netherlands,Max O'Dowd,2,5,11,1,0,45.455,1,4,ODI # 4697
+40,England vs Netherlands,Netherlands,Colin Ackermann,3,0,2,0,0,0,1,0,ODI # 4697
+40,England vs Netherlands,Netherlands,Sybrand Engelbrecht,4,33,49,3,1,67.347,1,18,ODI # 4697
+40,England vs Netherlands,Netherlands,Scott Edwards,5,38,42,3,1,90.476,1,18,ODI # 4697
+40,England vs Netherlands,Netherlands,Bas de Leede,6,10,12,2,0,83.333,1,8,ODI # 4697
+40,England vs Netherlands,Netherlands,Teja Nidamanuru,7,41,34,2,3,120.588,0,26,ODI # 4697
+40,England vs Netherlands,Netherlands,Logan van Beek,8,2,2,0,0,100,1,0,ODI # 4697
+40,England vs Netherlands,Netherlands,Roelof van der Merwe,9,0,4,0,0,0,1,0,ODI # 4697
+40,England vs Netherlands,Netherlands,Aryan Dutt,10,1,3,0,0,33.333,1,0,ODI # 4697
+40,England vs Netherlands,Netherlands,Paul van Meekeren,11,4,3,1,0,133.333,1,4,ODI # 4697
+41,Sri Lanka vs New Zealand,Sri Lanka,Pathum Nissanka,1,2,8,0,0,25,1,0,ODI # 4698
+41,Sri Lanka vs New Zealand,Sri Lanka,Kusal Janith Perera,2,51,28,9,2,182.143,1,48,ODI # 4698
+41,Sri Lanka vs New Zealand,Sri Lanka,Kusal Mendis,3,6,7,1,0,85.714,1,4,ODI # 4698
+41,Sri Lanka vs New Zealand,Sri Lanka,Sadeera Samarawickrama,4,1,2,0,0,50,1,0,ODI # 4698
+41,Sri Lanka vs New Zealand,Sri Lanka,Charith Asalanka,5,8,8,1,0,100,1,4,ODI # 4698
+41,Sri Lanka vs New Zealand,Sri Lanka,Angelo Mathews,6,16,27,2,0,59.259,1,8,ODI # 4698
+41,Sri Lanka vs New Zealand,Sri Lanka,Dhananjaya de Silva,7,19,24,2,1,79.167,1,14,ODI # 4698
+41,Sri Lanka vs New Zealand,Sri Lanka,Chamika Karunaratne,8,6,17,1,0,35.294,1,4,ODI # 4698
+41,Sri Lanka vs New Zealand,Sri Lanka,Maheesh Theekshana,9,38,91,3,0,41.758,0,12,ODI # 4698
+41,Sri Lanka vs New Zealand,Sri Lanka,Dushmantha Chameera,10,1,20,0,0,5,1,0,ODI # 4698
+41,Sri Lanka vs New Zealand,Sri Lanka,Dilshan Madushanka,11,19,48,2,0,39.583,1,8,ODI # 4698
+41,Sri Lanka vs New Zealand,New Zealand,Devon Conway,1,45,42,9,0,107.143,1,36,ODI # 4698
+41,Sri Lanka vs New Zealand,New Zealand,Rachin Ravindra,2,42,34,3,3,123.529,1,30,ODI # 4698
+41,Sri Lanka vs New Zealand,New Zealand,Kane Williamson,3,14,15,2,0,93.333,1,8,ODI # 4698
+41,Sri Lanka vs New Zealand,New Zealand,Daryl Mitchell,4,43,31,5,2,138.71,1,32,ODI # 4698
+41,Sri Lanka vs New Zealand,New Zealand,Mark Chapman,5,7,6,1,0,116.667,1,4,ODI # 4698
+41,Sri Lanka vs New Zealand,New Zealand,Glenn Phillips,6,17,10,3,0,170,0,12,ODI # 4698
+41,Sri Lanka vs New Zealand,New Zealand,Tom Latham,7,2,2,0,0,100,0,0,ODI # 4698
+42,Afghanistan vs South Africa,Afghanistan,Rahmanullah Gurbaz,1,25,22,3,1,113.636,1,18,ODI # 4699
+42,Afghanistan vs South Africa,Afghanistan,Ibrahim Zadran,2,15,30,3,0,50,1,12,ODI # 4699
+42,Afghanistan vs South Africa,Afghanistan,Rahmat Shah,3,26,46,2,0,56.522,1,8,ODI # 4699
+42,Afghanistan vs South Africa,Afghanistan,Hashmatullah Shahidi,4,2,7,0,0,28.571,1,0,ODI # 4699
+42,Afghanistan vs South Africa,Afghanistan,Azmatullah Omarzai,5,97,107,7,3,90.654,0,46,ODI # 4699
+42,Afghanistan vs South Africa,Afghanistan,Ikram Alikhil,6,12,14,1,1,85.714,1,10,ODI # 4699
+42,Afghanistan vs South Africa,Afghanistan,Mohammad Nabi,7,2,3,0,0,66.667,1,0,ODI # 4699
+42,Afghanistan vs South Africa,Afghanistan,Rashid Khan,8,14,30,0,0,46.667,1,0,ODI # 4699
+42,Afghanistan vs South Africa,Afghanistan,Noor Ahmad,9,26,32,4,0,81.25,1,16,ODI # 4699
+42,Afghanistan vs South Africa,Afghanistan,Mujeeb Ur Rahman,10,8,5,0,1,160,1,6,ODI # 4699
+42,Afghanistan vs South Africa,Afghanistan,Naveen-ul-Haq,11,2,4,0,0,50,1,0,ODI # 4699
+42,Afghanistan vs South Africa,South Africa,Quinton de Kock,1,41,47,2,3,87.234,1,26,ODI # 4699
+42,Afghanistan vs South Africa,South Africa,Temba Bavuma,2,23,28,3,0,82.143,1,12,ODI # 4699
+42,Afghanistan vs South Africa,South Africa,Rassie van der Dussen,3,76,95,6,1,80,0,30,ODI # 4699
+42,Afghanistan vs South Africa,South Africa,Aiden Markram,4,25,32,1,1,78.125,1,10,ODI # 4699
+42,Afghanistan vs South Africa,South Africa,Heinrich Klaasen,5,10,13,1,0,76.923,1,4,ODI # 4699
+42,Afghanistan vs South Africa,South Africa,David Miller,6,24,33,1,1,72.727,1,10,ODI # 4699
+42,Afghanistan vs South Africa,South Africa,Andile Phehlukwayo,7,39,37,1,3,105.405,0,22,ODI # 4699
+43,Bangladesh vs Australia,Bangladesh,Tanzid Hasan,1,36,34,6,0,105.882,1,24,ODI # 4700
+43,Bangladesh vs Australia,Bangladesh,Litton Das,2,36,45,5,0,80,1,20,ODI # 4700
+43,Bangladesh vs Australia,Bangladesh,Najmul Hossain Shanto,3,45,57,6,0,78.947,1,24,ODI # 4700
+43,Bangladesh vs Australia,Bangladesh,Towhid Hridoy,4,74,79,5,2,93.671,1,32,ODI # 4700
+43,Bangladesh vs Australia,Bangladesh,Mahmudullah,5,32,28,1,3,114.286,1,22,ODI # 4700
+43,Bangladesh vs Australia,Bangladesh,Mushfiqur Rahim,6,21,24,0,1,87.5,1,6,ODI # 4700
+43,Bangladesh vs Australia,Bangladesh,Mehidy Hasan Miraz,7,29,20,4,0,145,1,16,ODI # 4700
+43,Bangladesh vs Australia,Bangladesh,Nasum Ahmed,8,7,11,0,0,63.636,1,0,ODI # 4700
+43,Bangladesh vs Australia,Bangladesh,Mahedi Hasan,9,2,3,0,0,66.667,0,0,ODI # 4700
+43,Bangladesh vs Australia,Bangladesh,Taskin Ahmed,10,0,1,0,0,0,0,0,ODI # 4700
+43,Bangladesh vs Australia,Australia,Travis Head,1,10,11,2,0,90.909,1,8,ODI # 4700
+43,Bangladesh vs Australia,Australia,David Warner,2,53,61,6,0,86.885,1,24,ODI # 4700
+43,Bangladesh vs Australia,Australia,Mitchell Marsh,3,177,132,17,9,134.091,0,122,ODI # 4700
+43,Bangladesh vs Australia,Australia,Steve Smith,4,63,64,4,1,98.438,0,22,ODI # 4700
+44,England vs Pakistan,England,Dawid Malan,1,31,39,5,0,79.487,1,20,ODI # 4701
+44,England vs Pakistan,England,Jonny Bairstow,2,59,61,7,1,96.721,1,34,ODI # 4701
+44,England vs Pakistan,England,Joe Root,3,60,72,4,0,83.333,1,16,ODI # 4701
+44,England vs Pakistan,England,Ben Stokes,4,84,76,11,2,110.526,1,56,ODI # 4701
+44,England vs Pakistan,England,Jos Buttler,5,27,18,3,1,150,1,18,ODI # 4701
+44,England vs Pakistan,England,Harry Brook,6,30,17,2,2,176.471,1,20,ODI # 4701
+44,England vs Pakistan,England,Moeen Ali,7,8,6,0,1,133.333,1,6,ODI # 4701
+44,England vs Pakistan,England,Chris Woakes,8,4,4,1,0,100,0,4,ODI # 4701
+44,England vs Pakistan,England,David Willey,9,15,5,2,1,300,1,14,ODI # 4701
+44,England vs Pakistan,England,Gus Atkinson,10,0,1,0,0,0,1,0,ODI # 4701
+44,England vs Pakistan,England,Adil Rashid,11,0,1,0,0,0,0,0,ODI # 4701
+44,England vs Pakistan,Pakistan,Abdullah Shafique,1,0,2,0,0,0,1,0,ODI # 4701
+44,England vs Pakistan,Pakistan,Fakhar Zaman,2,1,9,0,0,11.111,1,0,ODI # 4701
+44,England vs Pakistan,Pakistan,Babar Azam,3,38,45,6,0,84.444,1,24,ODI # 4701
+44,England vs Pakistan,Pakistan,Mohammad Rizwan,4,36,51,2,0,70.588,1,8,ODI # 4701
+44,England vs Pakistan,Pakistan,Saud Shakeel,5,29,37,4,0,78.378,1,16,ODI # 4701
+44,England vs Pakistan,Pakistan,Agha Salman,6,51,45,6,1,113.333,1,30,ODI # 4701
+44,England vs Pakistan,Pakistan,Iftikhar Ahmed,7,3,5,0,0,60,1,0,ODI # 4701
+44,England vs Pakistan,Pakistan,Shadab Khan,8,4,7,1,0,57.143,1,4,ODI # 4701
+44,England vs Pakistan,Pakistan,Shaheen Afridi,9,25,23,3,1,108.696,1,18,ODI # 4701
+44,England vs Pakistan,Pakistan,Mohammad Wasim Jr,10,16,14,2,1,114.286,0,14,ODI # 4701
+44,England vs Pakistan,Pakistan,Haris Rauf,11,35,23,3,3,152.174,1,30,ODI # 4701
+45,India vs Netherlands,India,Rohit Sharma,1,61,54,8,2,112.963,1,44,ODI # 4702
+45,India vs Netherlands,India,Shubman Gill,2,51,32,3,4,159.375,1,36,ODI # 4702
+45,India vs Netherlands,India,Virat Kohli,3,51,56,5,1,91.071,1,26,ODI # 4702
+45,India vs Netherlands,India,Shreyas Iyer,4,128,94,10,5,136.17,0,70,ODI # 4702
+45,India vs Netherlands,India,KL Rahul,5,102,64,11,4,159.375,1,68,ODI # 4702
+45,India vs Netherlands,India,Suryakumar Yadav,6,2,1,0,0,200,0,0,ODI # 4702
+45,India vs Netherlands,Netherlands,Wesley Barresi,1,4,5,0,0,80,1,0,ODI # 4702
+45,India vs Netherlands,Netherlands,Max O'Dowd,2,30,42,3,1,71.429,1,18,ODI # 4702
+45,India vs Netherlands,Netherlands,Colin Ackermann,3,35,32,6,0,109.375,1,24,ODI # 4702
+45,India vs Netherlands,Netherlands,Sybrand Engelbrecht,4,45,80,4,0,56.25,1,16,ODI # 4702
+45,India vs Netherlands,Netherlands,Scott Edwards,5,17,30,1,0,56.667,1,4,ODI # 4702
+45,India vs Netherlands,Netherlands,Bas de Leede,6,12,21,1,0,57.143,1,4,ODI # 4702
+45,India vs Netherlands,Netherlands,Teja Nidamanuru,7,54,39,1,6,138.462,1,40,ODI # 4702
+45,India vs Netherlands,Netherlands,Logan van Beek,8,16,15,2,0,106.667,1,8,ODI # 4702
+45,India vs Netherlands,Netherlands,Roelof van der Merwe,9,16,8,1,2,200,1,16,ODI # 4702
+45,India vs Netherlands,Netherlands,Aryan Dutt,10,5,11,0,0,45.455,1,0,ODI # 4702
+45,India vs Netherlands,Netherlands,Paul van Meekeren,11,3,4,0,0,75,0,0,ODI # 4702
+46,India vs New Zealand,India,Rohit Sharma,1,47,29,4,4,162.069,1,40,ODI # 4703
+46,India vs New Zealand,India,Shubman Gill,2,80,66,8,3,121.212,0,50,ODI # 4703
+46,India vs New Zealand,India,Virat Kohli,3,117,113,9,2,103.54,1,48,ODI # 4703
+46,India vs New Zealand,India,Shreyas Iyer,4,105,70,4,8,150,1,64,ODI # 4703
+46,India vs New Zealand,India,KL Rahul,5,39,20,5,2,195,0,32,ODI # 4703
+46,India vs New Zealand,India,Suryakumar Yadav,6,1,2,0,0,50,1,0,ODI # 4703
+46,India vs New Zealand,New Zealand,Devon Conway,1,13,15,3,0,86.667,1,12,ODI # 4703
+46,India vs New Zealand,New Zealand,Rachin Ravindra,2,13,22,3,0,59.091,1,12,ODI # 4703
+46,India vs New Zealand,New Zealand,Kane Williamson,3,69,73,8,1,94.521,1,38,ODI # 4703
+46,India vs New Zealand,New Zealand,Daryl Mitchell,4,134,119,9,7,112.605,1,78,ODI # 4703
+46,India vs New Zealand,New Zealand,Tom Latham,5,0,2,0,0,0,1,0,ODI # 4703
+46,India vs New Zealand,New Zealand,Glenn Phillips,6,41,33,4,2,124.242,1,28,ODI # 4703
+46,India vs New Zealand,New Zealand,Mark Chapman,7,2,5,0,0,40,1,0,ODI # 4703
+46,India vs New Zealand,New Zealand,Mitchell Santner,8,9,10,0,0,90,1,0,ODI # 4703
+46,India vs New Zealand,New Zealand,Tim Southee,9,9,10,1,0,90,1,4,ODI # 4703
+46,India vs New Zealand,New Zealand,Trent Boult,10,2,2,0,0,100,0,0,ODI # 4703
+46,India vs New Zealand,New Zealand,Lockie Ferguson,11,6,3,0,1,200,1,6,ODI # 4703
+47,South Africa vs Australia,South Africa,Quinton de Kock,1,3,14,0,0,21.429,1,0,ODI # 4704
+47,South Africa vs Australia,South Africa,Temba Bavuma,2,0,4,0,0,0,1,0,ODI # 4704
+47,South Africa vs Australia,South Africa,Rassie van der Dussen,3,6,31,0,0,19.355,1,0,ODI # 4704
+47,South Africa vs Australia,South Africa,Aiden Markram,4,10,20,2,0,50,1,8,ODI # 4704
+47,South Africa vs Australia,South Africa,Heinrich Klaasen,5,47,48,4,2,97.917,1,28,ODI # 4704
+47,South Africa vs Australia,South Africa,David Miller,6,101,116,8,5,87.069,1,62,ODI # 4704
+47,South Africa vs Australia,South Africa,Marco Jansen,7,0,1,0,0,0,1,0,ODI # 4704
+47,South Africa vs Australia,South Africa,Gerald Coetzee,8,19,39,2,0,48.718,1,8,ODI # 4704
+47,South Africa vs Australia,South Africa,Keshav Maharaj,9,4,8,0,0,50,1,0,ODI # 4704
+47,South Africa vs Australia,South Africa,Kagiso Rabada,10,10,12,0,1,83.333,1,6,ODI # 4704
+47,South Africa vs Australia,South Africa,Tabraiz Shamsi,11,1,5,0,0,20,0,0,ODI # 4704
+47,South Africa vs Australia,Australia,Travis Head,1,62,48,9,2,129.167,1,48,ODI # 4704
+47,South Africa vs Australia,Australia,David Warner,2,29,18,1,4,161.111,1,28,ODI # 4704
+47,South Africa vs Australia,Australia,Mitchell Marsh,3,0,6,0,0,0,1,0,ODI # 4704
+47,South Africa vs Australia,Australia,Steve Smith,4,30,62,2,0,48.387,1,8,ODI # 4704
+47,South Africa vs Australia,Australia,Marnus Labuschagne,5,18,31,2,0,58.065,1,8,ODI # 4704
+47,South Africa vs Australia,Australia,Glenn Maxwell,6,1,5,0,0,20,1,0,ODI # 4704
+47,South Africa vs Australia,Australia,Josh Inglis,7,28,49,3,0,57.143,1,12,ODI # 4704
+47,South Africa vs Australia,Australia,Mitchell Starc,8,16,38,2,0,42.105,0,8,ODI # 4704
+47,South Africa vs Australia,Australia,Pat Cummins,9,14,29,2,0,48.276,0,8,ODI # 4704
+48,India vs Australia,India,Rohit Sharma,1,47,31,4,3,151.613,1,34,ODI # 4705
+48,India vs Australia,India,Shubman Gill,2,4,7,0,0,57.143,1,0,ODI # 4705
+48,India vs Australia,India,Virat Kohli,3,54,63,4,0,85.714,1,16,ODI # 4705
+48,India vs Australia,India,Shreyas Iyer,4,4,3,1,0,133.333,1,4,ODI # 4705
+48,India vs Australia,India,KL Rahul,5,66,107,1,0,61.682,1,4,ODI # 4705
+48,India vs Australia,India,Ravindra Jadeja,6,9,22,0,0,40.909,1,0,ODI # 4705
+48,India vs Australia,India,Suryakumar Yadav,7,18,28,1,0,64.286,1,4,ODI # 4705
+48,India vs Australia,India,Mohammed Shami,8,6,10,1,0,60,1,4,ODI # 4705
+48,India vs Australia,India,Jasprit Bumrah,9,1,3,0,0,33.333,1,0,ODI # 4705
+48,India vs Australia,India,Kuldeep Yadav,10,10,18,0,0,55.556,1,0,ODI # 4705
+48,India vs Australia,India,Mohammed Siraj,11,9,8,1,0,112.5,0,4,ODI # 4705
+48,India vs Australia,Australia,David Warner,1,7,3,1,0,233.333,1,4,ODI # 4705
+48,India vs Australia,Australia,Travis Head,2,137,120,15,4,114.167,1,84,ODI # 4705
+48,India vs Australia,Australia,Mitchell Marsh,3,15,15,1,1,100,1,10,ODI # 4705
+48,India vs Australia,Australia,Steve Smith,4,4,9,1,0,44.444,1,4,ODI # 4705
+48,India vs Australia,Australia,Marnus Labuschagne,5,58,110,4,0,52.727,0,16,ODI # 4705
+48,India vs Australia,Australia,Glenn Maxwell,6,2,1,0,0,200,0,0,ODI # 4705
