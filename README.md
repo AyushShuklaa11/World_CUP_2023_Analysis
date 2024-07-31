@@ -6,8 +6,11 @@ In this project, we analyzed the performance data of players from the ODI World 
 
 ## Data Collection
 The data for this analysis was collected from reliable sports data sources and official World Cup statistics. The dataset includes :
+
 1.Player performances across all matches in the tournament.
+
 2.Match results of all the matches in the tournament.
+
 3.Player characterstics of all the players participating in the tournament.
 
 ## Analysis Methodology
